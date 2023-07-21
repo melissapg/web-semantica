@@ -1,0 +1,41 @@
+PREFIX wbt: <https://wikifcd.wikibase.cloud/wiki/Property:>
+PREFIX wb: <https://wikifcd.wikibase.cloud/wiki/Item:>
+                            
+Nome                                rdfs:label
+Nome Científico                     wbt:P73
+Energia kcal                        wbt:P6
+Umidade                             wbt:P5
+Carboidrato total                   wbt:P10
+Proteína                            wbt:P7
+Lipídios                            wbt:P8
+Fibra alimentar                     wbt:P11
+Álcool                              wbt:P87
+Cinzas                              wbt:P9
+Colesterol                          wbt:P99
+Ácidos graxos saturados             wbt:P86
+Ácidos graxos monoinsaturados       wbt:P119
+Ácidos graxos poliinsaturados       wbt:P88
+Ácidos graxos trans                 wbt:P271
+Cálcio                              wbt:P13
+Ferro                               wbt:P14
+Sódio                               wbt:P18
+Magnésio                            wbt:P15
+Fósforo                             wbt:P16
+Potássio                            wbt:P17
+Zinco                               wbt:P19
+Cobre                               wbt:P20
+Selênio                             wbt:P23
+Vitamina A (RE)                     wbt:P307
+Vitamina A (RAE)                    wbt:P45
+Vitamina D                          wbt:P121
+Alfa-tocoferol (Vitamina E)         wbt:P251
+Tiamina                             wbt:P25
+Riboflavina                         wbt:P26
+Niacina                             wbt:P27
+Vitamina B6                         wbt:P29
+Vitamina B12                        wbt:P90
+Vitamina C                          wbt:P24
+Equivalente de folato               wbt:P42
+Sal de adição                       wbt:P322
+Açúcar de adição                    wbt:P270
+FoodOn Id                           wbt:P309

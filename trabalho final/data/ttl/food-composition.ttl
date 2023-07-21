@@ -1,0 +1,430 @@
+# Mapping created using R2RML editor.
+  @prefix rr: <http://www.w3.org/ns/r2rml#> .
+  @prefix ex: <http://example.com/ns#> .
+  @prefix rdfs: <https://www.w3.org/2000/01/rdf-schema#> .
+  @prefix wbt: <https://wikifcd.wikibase.cloud/wiki/Property:> .
+
+  <#TripleMap2>
+  rr:logicalTable [
+    rr:tableName "food_composition";
+  ];
+     rr:subjectMap [
+      rr:template "http://example.com/ns#{codigo}";
+      rr:class wbt:P1;
+    ];
+
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant rdfs:label;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "nome";
+      ];
+     ];
+     rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant rdfs:P73;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "taxon";
+      ];
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P6;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "energia";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P5;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "umidade";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P10;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "carboidrato_total";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P7;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "proteina";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P8;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "lipidios";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P11;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "fibra_alimentar";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P87;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "alcool";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P9;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "cinzas";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P99;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "colesterol";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P86;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "acidos_graxos_saturados";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P119;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "acidos_graxos_monoiinsaturados";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P88;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "acidos_graxos_poliinsaturados";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P271;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "acidos_graxos_trans";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P13;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "calcio";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P14;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "ferro";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P18;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "sodio";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P15;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "magnesio";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P16;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "fosforo";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P17;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "potassio";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P19;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "zinco";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P20;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "cobre";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P23;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "selenio";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P307;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "vitamina_a_re";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P45;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "vitamina_a_rae";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P121;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "vitamina_d";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P251;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "vitamina_e";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P25;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "tiamina";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P26;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "riboflavina";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P27;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "niacina";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P29;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "vitamina_b6";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P90;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "vitamina_b12";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P24;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "vitamina_c";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P42;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "equivalente_de_folato";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant wbt:P270;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "acucar_de_adicao";
+      ];
+
+     ];
+    rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant rdfs:P322;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "sal_de_adicao";
+      ];
+     ];
+     rr:predicateObjectMap [
+      rr:predicateMap [
+        rr:constant rdfs:P309;
+        rr:termType rr:IRI;
+      ];
+
+       rr:objectMap [
+        rr:column "foodon_id";
+      ];
+     ];
+   .

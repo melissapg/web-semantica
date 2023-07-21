@@ -1,0 +1,1544 @@
+Code,NarrowSynonym,Cod
+http://purl.obolibrary.org/obo/FOODON_00001009,frankfurter,00001009
+http://purl.obolibrary.org/obo/FOODON_00001197,Bambara nut,00001197
+http://purl.obolibrary.org/obo/FOODON_00001197,Bambara-bean,00001197
+http://purl.obolibrary.org/obo/FOODON_00001197,Congo goober,00001197
+http://purl.obolibrary.org/obo/FOODON_00001197,earth pea,00001197
+http://purl.obolibrary.org/obo/FOODON_00001197,ground-bean,00001197
+http://purl.obolibrary.org/obo/FOODON_00001197,hog-peanut,00001197
+http://purl.obolibrary.org/obo/FOODON_00001199,Bengal gram,00001199
+http://purl.obolibrary.org/obo/FOODON_00001199,Egyptian pea,00001199
+http://purl.obolibrary.org/obo/FOODON_00001199,gram,00001199
+http://purl.obolibrary.org/obo/FOODON_00001201,"kidney, haricot bean (Ph. vulgaris); 
+lima, butter bean (Ph. lunatus); 
+adzuki bean (Ph. angularis); 
+mungo bean, golden, green gram (Ph. aureus); 
+black gram, urd (Ph. mungo); 
+scarlet runner bean (Ph. coccineus); 
+rice bean (Ph. calcaratus); 
+moth bean (Ph. aconitifolius); 
+tepary bean (Ph. acutifolius)",00001201
+http://purl.obolibrary.org/obo/FOODON_00001287,wild mushroom,00001287
+http://purl.obolibrary.org/obo/FOODON_00001845,dry corn,00001845
+http://purl.obolibrary.org/obo/FOODON_00001850,"United States southern varieties: Big Red Ripper, Zipper, Rucker, Stick Up, Old Timer, Turkey Craw, Whippoorwill, Purple Hull, Pinkeye, Crowder, Wash Day, Rattlesnake, Iron Clay, Bird, Cow, Colossus, Hercules, Mississippi Silver, Shanty, Polecat",00001850
+http://purl.obolibrary.org/obo/FOODON_00002018,clementine,00002018
+http://purl.obolibrary.org/obo/FOODON_00002018,satsuma,00002018
+http://purl.obolibrary.org/obo/FOODON_00002118,pimiento pepper,00002118
+http://purl.obolibrary.org/obo/FOODON_00002194,northern red snapper,00002194
+http://purl.obolibrary.org/obo/FOODON_00002194,southern red snapper,00002194
+http://purl.obolibrary.org/obo/FOODON_00002276,stew,00002276
+http://purl.obolibrary.org/obo/FOODON_00002280,pine nut,00002280
+http://purl.obolibrary.org/obo/FOODON_00003116,pine nut,00003116
+http://purl.obolibrary.org/obo/FOODON_00002323,Curcuma,00002323
+http://purl.obolibrary.org/obo/FOODON_00002340,water,00002340
+http://purl.obolibrary.org/obo/FOODON_00002387,sweet bean paste,00002387
+http://purl.obolibrary.org/obo/FOODON_00002393,chinese wine mash,00002393
+http://purl.obolibrary.org/obo/FOODON_00002397,Maguro Nakaochi,00002397
+http://purl.obolibrary.org/obo/FOODON_00002397,Nakaochi Scrape,00002397
+http://purl.obolibrary.org/obo/FOODON_00002489,Anseriformes,00002489
+http://purl.obolibrary.org/obo/FOODON_00002489,Galliformes,00002489
+http://purl.obolibrary.org/obo/FOODON_00002489,gamefowl,00002489
+http://purl.obolibrary.org/obo/FOODON_00002489,landfowl,00002489
+http://purl.obolibrary.org/obo/FOODON_00002489,waterfowl,00002489
+http://purl.obolibrary.org/obo/FOODON_00002520,Cheerios,00002520
+http://purl.obolibrary.org/obo/FOODON_00002529,masa de harina,00002529
+http://purl.obolibrary.org/obo/FOODON_00002529,masa harina,00002529
+http://purl.obolibrary.org/obo/FOODON_00002534,ossobuco in bianco,00002534
+http://purl.obolibrary.org/obo/FOODON_00002534,òss bus,00002534
+http://purl.obolibrary.org/obo/FOODON_00002538,cheese quesadilla,00002538
+http://purl.obolibrary.org/obo/FOODON_00002542,El Queso Cotija de Montaña,00002542
+http://purl.obolibrary.org/obo/FOODON_00002542,Tajo cheese,00002542
+http://purl.obolibrary.org/obo/FOODON_00002555,Akage Washu,00002555
+http://purl.obolibrary.org/obo/FOODON_00002555,Akaushi,00002555
+http://purl.obolibrary.org/obo/FOODON_00002555,Japanese Black,00002555
+http://purl.obolibrary.org/obo/FOODON_00002555,Japanese Brown,00002555
+http://purl.obolibrary.org/obo/FOODON_00002555,Japanese Polled,00002555
+http://purl.obolibrary.org/obo/FOODON_00002555,Japanese Shorthorn,00002555
+http://purl.obolibrary.org/obo/FOODON_00002555,Kuroge Washu,00002555
+http://purl.obolibrary.org/obo/FOODON_00002555,Mukaku Washu,00002555
+http://purl.obolibrary.org/obo/FOODON_00002555,Nihon Tankaku Washu,00002555
+http://purl.obolibrary.org/obo/FOODON_00002555,日本短角和種,00002555
+http://purl.obolibrary.org/obo/FOODON_00002555,無角和種,00002555
+http://purl.obolibrary.org/obo/FOODON_00002555,赤毛和種,00002555
+http://purl.obolibrary.org/obo/FOODON_00002555,黒毛和種,00002555
+http://purl.obolibrary.org/obo/FOODON_00002677,propadus,00002677
+http://purl.obolibrary.org/obo/FOODON_00002712,dog chew,00002712
+http://purl.obolibrary.org/obo/FOODON_00002723,American mink,00002723
+http://purl.obolibrary.org/obo/FOODON_00002723,European mink,00002723
+http://purl.obolibrary.org/obo/FOODON_00002782,edamame,00002782
+http://purl.obolibrary.org/obo/FOODON_00002836,lamb neck chop,00002836
+http://purl.obolibrary.org/obo/FOODON_00002841,Navajo Juniper Ash,00002841
+http://purl.obolibrary.org/obo/FOODON_00002842,Bartlett pear plant,00002842
+http://purl.obolibrary.org/obo/FOODON_00002842,Williams pear plant,00002842
+http://purl.obolibrary.org/obo/FOODON_00002851,fully hydrogenated fat,00002851
+http://purl.obolibrary.org/obo/FOODON_00002851,fully hydrogenated oil,00002851
+http://purl.obolibrary.org/obo/FOODON_00002857,hydrogenated fat,00002857
+http://purl.obolibrary.org/obo/FOODON_00002859,partly hydrogenated fat,00002859
+http://purl.obolibrary.org/obo/FOODON_00002883,tepa,00002883
+http://purl.obolibrary.org/obo/FOODON_00002883,tipnuk,00002883
+http://purl.obolibrary.org/obo/FOODON_00002890,bittern,00002890
+http://purl.obolibrary.org/obo/FOODON_00002890,egret,00002890
+http://purl.obolibrary.org/obo/FOODON_00002933,cobnut,00002933
+http://purl.obolibrary.org/obo/FOODON_00002998,Coccinia grandis,00002998
+http://purl.obolibrary.org/obo/FOODON_00002998,kowai fruit,00002998
+http://purl.obolibrary.org/obo/FOODON_00002998,scarlet gourd,00002998
+http://purl.obolibrary.org/obo/FOODON_00002998,tindora,00002998
+http://purl.obolibrary.org/obo/FOODON_00003013,pepper,00003013
+http://purl.obolibrary.org/obo/FOODON_00003030,angelica,00003030
+http://purl.obolibrary.org/obo/FOODON_00003038,borage,00003038
+http://purl.obolibrary.org/obo/FOODON_00003135,black mulberry,00003135
+http://purl.obolibrary.org/obo/FOODON_00003172,Allium fistulosum L.,00003172
+http://purl.obolibrary.org/obo/FOODON_00003187,nutella,00003187
+http://purl.obolibrary.org/obo/FOODON_00003250,paella valenciana,00003250
+http://purl.obolibrary.org/obo/FOODON_00003304,filet mignon,00003304
+http://purl.obolibrary.org/obo/FOODON_00003341,bok choy vegetable food product,00003341
+http://purl.obolibrary.org/obo/FOODON_00003341,bomdong vegetable food product,00003341
+http://purl.obolibrary.org/obo/FOODON_00003341,broccolini vegetable food product,00003341
+http://purl.obolibrary.org/obo/FOODON_00003341,chinese cabbage vegetable food product,00003341
+http://purl.obolibrary.org/obo/FOODON_00003341,choy sum vegetable food product,00003341
+http://purl.obolibrary.org/obo/FOODON_00003341,collard greens vegetable food product,00003341
+http://purl.obolibrary.org/obo/FOODON_00003341,gai lan vegetable food product,00003341
+http://purl.obolibrary.org/obo/FOODON_00003341,komatsuna vegetable food product,00003341
+http://purl.obolibrary.org/obo/FOODON_00003341,mizuna vegetable food product,00003341
+http://purl.obolibrary.org/obo/FOODON_00003341,rutabaga vegetable food product,00003341
+http://purl.obolibrary.org/obo/FOODON_00003341,savoy cabbage vegetable food product,00003341
+http://purl.obolibrary.org/obo/FOODON_00003341,tatsoi vegetable food product,00003341
+http://purl.obolibrary.org/obo/FOODON_00003853,bird seed,00003853
+http://purl.obolibrary.org/obo/FOODON_00003859,hooikaas,00003859
+http://purl.obolibrary.org/obo/FOODON_00003859,meikaas,00003859
+http://purl.obolibrary.org/obo/FOODON_00003879,milk candy bar,00003879
+http://purl.obolibrary.org/obo/FOODON_00003947,Splenda,00003947
+http://purl.obolibrary.org/obo/FOODON_00003948,Equal,00003948
+http://purl.obolibrary.org/obo/FOODON_00003948,NutraSweet,00003948
+http://purl.obolibrary.org/obo/FOODON_00003949,Sweet'N Low,00003949
+http://purl.obolibrary.org/obo/FOODON_00004143,braided chew,00004143
+http://purl.obolibrary.org/obo/FOODON_00004158,pig meal,00004158
+http://purl.obolibrary.org/obo/FOODON_00004169,party wing,00004169
+http://purl.obolibrary.org/obo/FOODON_00004175,indo kratom powder,00004175
+http://purl.obolibrary.org/obo/FOODON_03301227,Horse bean,03301227
+http://purl.obolibrary.org/obo/FOODON_03301227,field bean,03301227
+http://purl.obolibrary.org/obo/FOODON_03301227,tic bean,03301227
+http://purl.obolibrary.org/obo/FOODON_03301227,tick bean,03301227
+http://purl.obolibrary.org/obo/FOODON_03301503,condensed milk,03301503
+http://purl.obolibrary.org/obo/FOODON_03301889,philadelphia cream cheese,03301889
+http://purl.obolibrary.org/obo/FOODON_03302918,cheddar-jack,03302918
+http://purl.obolibrary.org/obo/FOODON_03302918,colby-jack,03302918
+http://purl.obolibrary.org/obo/FOODON_03302918,pepper jack,03302918
+http://purl.obolibrary.org/obo/FOODON_03304999,tempeh gembus,03304999
+http://purl.obolibrary.org/obo/FOODON_03304999,tempeh kedele,03304999
+http://purl.obolibrary.org/obo/FOODON_03305135,kheer,03305135
+http://purl.obolibrary.org/obo/FOODON_03305516,canapé,03305516
+http://purl.obolibrary.org/obo/FOODON_03307126,red velvet,03307126
+http://purl.obolibrary.org/obo/FOODON_03309823,bagoong alamang,03309823
+http://purl.obolibrary.org/obo/FOODON_03309823,bagoong aramang,03309823
+http://purl.obolibrary.org/obo/FOODON_03309823,belacan,03309823
+http://purl.obolibrary.org/obo/FOODON_03309823,belachan,03309823
+http://purl.obolibrary.org/obo/FOODON_03309823,blachang,03309823
+http://purl.obolibrary.org/obo/FOODON_03309823,hae ko,03309823
+http://purl.obolibrary.org/obo/FOODON_03309823,hom ha,03309823
+http://purl.obolibrary.org/obo/FOODON_03309823,kapi,03309823
+http://purl.obolibrary.org/obo/FOODON_03309823,mắm ruốc,03309823
+http://purl.obolibrary.org/obo/FOODON_03309823,mắm tép,03309823
+http://purl.obolibrary.org/obo/FOODON_03309823,mắm tôm,03309823
+http://purl.obolibrary.org/obo/FOODON_03309823,ngapi,03309823
+http://purl.obolibrary.org/obo/FOODON_03309823,sidol,03309823
+http://purl.obolibrary.org/obo/FOODON_03309823,terasi,03309823
+http://purl.obolibrary.org/obo/FOODON_03310591,bottom round,03310591
+http://purl.obolibrary.org/obo/FOODON_03310591,eye of round,03310591
+http://purl.obolibrary.org/obo/FOODON_03310591,top round,03310591
+http://purl.obolibrary.org/obo/FOODON_03310780,whole milk,03310780
+http://purl.obolibrary.org/obo/FOODON_03315627,double porter,03315627
+http://purl.obolibrary.org/obo/FOODON_03315627,extra porter,03315627
+http://purl.obolibrary.org/obo/FOODON_03315627,stout porter,03315627
+http://purl.obolibrary.org/obo/FOODON_03315658,souse,03315658
+http://purl.obolibrary.org/obo/FOODON_03315873,chili pod,03315873
+http://purl.obolibrary.org/obo/FOODON_03411030,Soletellina diphos (Linnaeus 1771),03411030
+http://purl.obolibrary.org/obo/FOODON_03411045,Vitis vinifera L.,03411045
+http://purl.obolibrary.org/obo/FOODON_03411072,Vitis vinifera L.,03411072
+http://purl.obolibrary.org/obo/FOODON_03411178,Vitis vinifera L.,03411178
+http://purl.obolibrary.org/obo/FOODON_03412038,Vitis vinifera L.,03412038
+http://purl.obolibrary.org/obo/FOODON_03411051,Brassica rapa L. subsp. pekinensis (Lour.) Hanelt,03411051
+http://purl.obolibrary.org/obo/FOODON_03411051,Brassica rapa subsp. pekinensis (Lour.) Hanelt,03411051
+http://purl.obolibrary.org/obo/FOODON_03411056,Citrus sinensis (L.) Osbeck,03411056
+http://purl.obolibrary.org/obo/FOODON_03411339,Citrus sinensis (L.) Osbeck,03411339
+http://purl.obolibrary.org/obo/FOODON_03414313,Citrus sinensis (L.) Osbeck,03414313
+http://purl.obolibrary.org/obo/FOODON_03411056,Citrus ×sinensis (L.) Osbeck (pro sp.),03411056
+http://purl.obolibrary.org/obo/FOODON_03411339,Citrus ×sinensis (L.) Osbeck (pro sp.),03411339
+http://purl.obolibrary.org/obo/FOODON_03414313,Citrus ×sinensis (L.) Osbeck (pro sp.),03414313
+http://purl.obolibrary.org/obo/FOODON_03411060,Phaseolus vulgaris L.,03411060
+http://purl.obolibrary.org/obo/FOODON_03411061,Phaseolus vulgaris L.,03411061
+http://purl.obolibrary.org/obo/FOODON_03411555,Phaseolus vulgaris L.,03411555
+http://purl.obolibrary.org/obo/FOODON_03411999,Phaseolus vulgaris L.,03411999
+http://purl.obolibrary.org/obo/FOODON_03411060,Phaseolus vulgaris var. vulgaris,03411060
+http://purl.obolibrary.org/obo/FOODON_03411061,Phaseolus vulgaris var. vulgaris,03411061
+http://purl.obolibrary.org/obo/FOODON_03411555,Phaseolus vulgaris var. vulgaris,03411555
+http://purl.obolibrary.org/obo/FOODON_03411999,Phaseolus vulgaris var. vulgaris,03411999
+http://purl.obolibrary.org/obo/FOODON_03411060,bush bean plant,03411060
+http://purl.obolibrary.org/obo/FOODON_03411060,pole bean plant,03411060
+http://purl.obolibrary.org/obo/FOODON_03411063,Rubus loganobaccus L. H. Bailey,03411063
+http://purl.obolibrary.org/obo/FOODON_03411401,Rubus loganobaccus L. H. Bailey,03411401
+http://purl.obolibrary.org/obo/FOODON_03412520,Rubus loganobaccus L. H. Bailey,03412520
+http://purl.obolibrary.org/obo/FOODON_03411067,Citrus aurantiifolia (Christm. & Panz.) Swingle,03411067
+http://purl.obolibrary.org/obo/FOODON_03411067,Citrus aurantiifolia (Christm.) Swingle,03411067
+http://purl.obolibrary.org/obo/FOODON_03411067,Citrus ×aurantiifolia (Christm.) Swingle (pro sp.),03411067
+http://purl.obolibrary.org/obo/FOODON_03411081,"Dendrobranchiata Bate, 1888",03411081
+http://purl.obolibrary.org/obo/FOODON_03411081,Natantia,03411081
+http://purl.obolibrary.org/obo/FOODON_03411083,Pinus,03411083
+http://purl.obolibrary.org/obo/FOODON_03411083,Pinus L.,03411083
+http://purl.obolibrary.org/obo/FOODON_03411083,Pinus spp.,03411083
+http://purl.obolibrary.org/obo/FOODON_03411085,"Ictiobus Rafinesque, 1820",03411085
+http://purl.obolibrary.org/obo/FOODON_03411091,Prunus avium (L.) L.,03411091
+http://purl.obolibrary.org/obo/FOODON_03411092,Brassica juncea (L.) Czern.,03411092
+http://purl.obolibrary.org/obo/FOODON_03411094,Brassica oleracea L. var. botrytis L.,03411094
+http://purl.obolibrary.org/obo/FOODON_03411443,Brassica oleracea L. var. botrytis L.,03411443
+http://purl.obolibrary.org/obo/FOODON_03411094,Brassica oleracea var. botrytis L.,03411094
+http://purl.obolibrary.org/obo/FOODON_03411443,Brassica oleracea var. botrytis L.,03411443
+http://purl.obolibrary.org/obo/FOODON_03411096,Rubus idaeus L. ssp. idaeus,03411096
+http://purl.obolibrary.org/obo/FOODON_03411096,Rubus idaeus L. ssp. strigosus (Michx.) Focke,03411096
+http://purl.obolibrary.org/obo/FOODON_03411096,Rubus idaeus ssp. idaeus L.,03411096
+http://purl.obolibrary.org/obo/FOODON_03411096,Rubus idaeus ssp. strigosus (Michx.) Focke,03411096
+http://purl.obolibrary.org/obo/FOODON_03411096,Rubus idaeus var. idaeus L.,03411096
+http://purl.obolibrary.org/obo/FOODON_03411100,Vigna unguiculata (L.) Walp.,03411100
+http://purl.obolibrary.org/obo/FOODON_03411196,Vigna unguiculata (L.) Walp.,03411196
+http://purl.obolibrary.org/obo/FOODON_03411200,Vigna unguiculata (L.) Walp.,03411200
+http://purl.obolibrary.org/obo/FOODON_03411724,Vigna unguiculata (L.) Walp.,03411724
+http://purl.obolibrary.org/obo/FOODON_03411100,Vigna unguiculata (L.) Walp. subsp. unguiculata,03411100
+http://purl.obolibrary.org/obo/FOODON_03411102,Cucumis melo L. subsp. melo var. inodorus H. Jacq.,03411102
+http://purl.obolibrary.org/obo/FOODON_03411582,Cucumis melo L. subsp. melo var. inodorus H. Jacq.,03411582
+http://purl.obolibrary.org/obo/FOODON_03411123,Satureja hortensis L.,03411123
+http://purl.obolibrary.org/obo/FOODON_03411125,guinea hen,03411125
+http://purl.obolibrary.org/obo/FOODON_03411136,"Sus scrofa Linnaeus, 1758",03411136
+http://purl.obolibrary.org/obo/FOODON_03411136,hog,03411136
+http://purl.obolibrary.org/obo/FOODON_03411136,pig,03411136
+http://purl.obolibrary.org/obo/FOODON_03411138,"Squatina Duméril, 1806",03411138
+http://purl.obolibrary.org/obo/FOODON_03411144,cheilopogon spp.,03411144
+http://purl.obolibrary.org/obo/FOODON_03411144,cypselurus spp.,03411144
+http://purl.obolibrary.org/obo/FOODON_03411144,exocoetus spp.,03411144
+http://purl.obolibrary.org/obo/FOODON_03411144,hirundichthys spp.,03411144
+http://purl.obolibrary.org/obo/FOODON_03411144,parexocoetus spp.,03411144
+http://purl.obolibrary.org/obo/FOODON_03411145,Ocimum minimum L.,03411145
+http://purl.obolibrary.org/obo/FOODON_03411146,"Armoracia rusticana Gaertn., Mey. & Scherb.",03411146
+http://purl.obolibrary.org/obo/FOODON_03411153,"Sebastes marinus (Linnaeus, 1758)",03411153
+http://purl.obolibrary.org/obo/FOODON_03411154,"Trichiurus Linnaeus, 1758",03411154
+http://purl.obolibrary.org/obo/FOODON_03411154,Trichiurus spp.,03411154
+http://purl.obolibrary.org/obo/FOODON_03411163,Palaemonidae,03411163
+http://purl.obolibrary.org/obo/FOODON_03411166,Trachurus trachurus,03411166
+http://purl.obolibrary.org/obo/FOODON_03411166,"Trachurus trachurus (Linnaeus, 1758)",03411166
+http://purl.obolibrary.org/obo/FOODON_03411167,Acer saccharum Marsh.,03411167
+http://purl.obolibrary.org/obo/FOODON_03411171,Brassica rapa L.,03411171
+http://purl.obolibrary.org/obo/FOODON_03413373,Brassica rapa L.,03413373
+http://purl.obolibrary.org/obo/FOODON_03411171,Brassica rapa L. subsp. perviridis L.H.Bailey,03411171
+http://purl.obolibrary.org/obo/FOODON_03413373,Brassica rapa L. subsp. perviridis L.H.Bailey,03413373
+http://purl.obolibrary.org/obo/FOODON_03411171,Brassica rapa var. perviridis L. H. Bailey,03411171
+http://purl.obolibrary.org/obo/FOODON_03413373,Brassica rapa var. perviridis L. H. Bailey,03413373
+http://purl.obolibrary.org/obo/FOODON_03411173,Thymus serpyllum L.,03411173
+http://purl.obolibrary.org/obo/FOODON_03411175,Beta vulgaris L. ssp. cicla (L.) W.D.J. Koch,03411175
+http://purl.obolibrary.org/obo/FOODON_03411175,Beta vulgaris L. subsp. vulgaris,03411175
+http://purl.obolibrary.org/obo/FOODON_03411175,Beta vulgaris L. var. cicla L.,03411175
+http://purl.obolibrary.org/obo/FOODON_03411175,Beta vulgaris ssp. cicla (L.) Koch,03411175
+http://purl.obolibrary.org/obo/FOODON_03411175,Beta vulgaris subsp. vulgaris,03411175
+http://purl.obolibrary.org/obo/FOODON_03412940,Beta vulgaris subsp. vulgaris,03412940
+http://purl.obolibrary.org/obo/FOODON_03411185,Phaseolus lunatus L.,03411185
+http://purl.obolibrary.org/obo/FOODON_03411397,Phaseolus lunatus L.,03411397
+http://purl.obolibrary.org/obo/FOODON_03411562,Phaseolus lunatus L.,03411562
+http://purl.obolibrary.org/obo/FOODON_03411189,Cucurbita moschata,03411189
+http://purl.obolibrary.org/obo/FOODON_03411189,Cucurbita pepo,03411189
+http://purl.obolibrary.org/obo/FOODON_03411189,cucurbita maxima,03411189
+http://purl.obolibrary.org/obo/FOODON_03411190,Cucurbita pepo L.,03411190
+http://purl.obolibrary.org/obo/FOODON_03411191,Piper nigrum L.,03411191
+http://purl.obolibrary.org/obo/FOODON_03411193,Citrus aurantium L.,03411193
+http://purl.obolibrary.org/obo/FOODON_03411193,Citrus aurantium L. subsp. aurantium,03411193
+http://purl.obolibrary.org/obo/FOODON_03411193,Citrus ×aurantium L. (pro sp.),03411193
+http://purl.obolibrary.org/obo/FOODON_03411193,Citrus ×aurantium L. ssp. aurantium,03411193
+http://purl.obolibrary.org/obo/FOODON_03411196,Vigna unguiculata subsp. unguiculata,03411196
+http://purl.obolibrary.org/obo/FOODON_03411197,Laurus nobilis L.,03411197
+http://purl.obolibrary.org/obo/FOODON_03411199,Thymus,03411199
+http://purl.obolibrary.org/obo/FOODON_03411199,Thymus L.,03411199
+http://purl.obolibrary.org/obo/FOODON_03411199,Thymus spp.,03411199
+http://purl.obolibrary.org/obo/FOODON_03411199,Thymus vulgaris L.,03411199
+http://purl.obolibrary.org/obo/FOODON_03411200,Vigna unguiculata (L.) Walp. ssp. unguiculata,03411200
+http://purl.obolibrary.org/obo/FOODON_03411210,Gossypium L.,03411210
+http://purl.obolibrary.org/obo/FOODON_03411218,Solanum tuberosum L.,03411218
+http://purl.obolibrary.org/obo/FOODON_03411220,Insecta,03411220
+http://purl.obolibrary.org/obo/FOODON_03411224,crassostrea spp.,03411224
+http://purl.obolibrary.org/obo/FOODON_03411224,ostrea spp.,03411224
+http://purl.obolibrary.org/obo/FOODON_03411224,pteriidae,03411224
+http://purl.obolibrary.org/obo/FOODON_03411225,Rosa,03411225
+http://purl.obolibrary.org/obo/FOODON_03411225,Rosa L.,03411225
+http://purl.obolibrary.org/obo/FOODON_03411225,Rosa spp.,03411225
+http://purl.obolibrary.org/obo/FOODON_03411226,Sesamum indicum L.,03411226
+http://purl.obolibrary.org/obo/FOODON_03411226,Sesamum orientale L.,03411226
+http://purl.obolibrary.org/obo/FOODON_03411227,Daucus L.,03411227
+http://purl.obolibrary.org/obo/FOODON_03411227,Daucus carota L.,03411227
+http://purl.obolibrary.org/obo/FOODON_03411227,Daucus carota L. subsp. carota,03411227
+http://purl.obolibrary.org/obo/FOODON_03411227,Daucus carota L. subsp. sativus (Hoffm.) Arcang.,03411227
+http://purl.obolibrary.org/obo/FOODON_03411227,Daucus carota ssp. carota L.,03411227
+http://purl.obolibrary.org/obo/FOODON_03411227,Daucus carota ssp. sativus  (Hoffm.) Arcang.,03411227
+http://purl.obolibrary.org/obo/FOODON_03411229,"Equus caballus Linnaeus, 1758",03411229
+http://purl.obolibrary.org/obo/FOODON_03411230,Hordeum vulgare L.,03411230
+http://purl.obolibrary.org/obo/FOODON_03411232,Zea mays L.,03411232
+http://purl.obolibrary.org/obo/FOODON_03411380,Zea mays L.,03411380
+http://purl.obolibrary.org/obo/FOODON_03411454,Zea mays L.,03411454
+http://purl.obolibrary.org/obo/FOODON_03411235,Sprattus sprattus,03411235
+http://purl.obolibrary.org/obo/FOODON_03411235,"Sprattus sprattus (Linnaeus, 1758)",03411235
+http://purl.obolibrary.org/obo/FOODON_03411235,"Sprattus sprattus sprattus (Linnaeus, 1758)",03411235
+http://purl.obolibrary.org/obo/FOODON_03411238,Brassica rapa L. ssp. rapa,03411238
+http://purl.obolibrary.org/obo/FOODON_03411245,Malus domestica Borkh.,03411245
+http://purl.obolibrary.org/obo/FOODON_03411247,Capparis spinosa L.,03411247
+http://purl.obolibrary.org/obo/FOODON_03411248,Brassica napus L. emend. Metzg. var. napus,03411248
+http://purl.obolibrary.org/obo/FOODON_03411248,canola,03411248
+http://purl.obolibrary.org/obo/FOODON_03411248,canola plant,03411248
+http://purl.obolibrary.org/obo/FOODON_03411252,anura,03411252
+http://purl.obolibrary.org/obo/FOODON_03411252,rana catesbiana,03411252
+http://purl.obolibrary.org/obo/FOODON_03411252,rana esculenta,03411252
+http://purl.obolibrary.org/obo/FOODON_03411252,rana japonica,03411252
+http://purl.obolibrary.org/obo/FOODON_03411252,rana nigromaculata,03411252
+http://purl.obolibrary.org/obo/FOODON_03411252,rana pipiens,03411252
+http://purl.obolibrary.org/obo/FOODON_03411252,rana sylvatica,03411252
+http://purl.obolibrary.org/obo/FOODON_03411252,ranidae,03411252
+http://purl.obolibrary.org/obo/FOODON_03411252,salientia,03411252
+http://purl.obolibrary.org/obo/FOODON_03411252,toad,03411252
+http://purl.obolibrary.org/obo/FOODON_03411255,Syzygium aromaticum (L.) Merr. & L.M. Perry,03411255
+http://purl.obolibrary.org/obo/FOODON_03411262,Foeniculum vulgare Mill.,03411262
+http://purl.obolibrary.org/obo/FOODON_03411262,Foeniculum vulgare P. Mill.,03411262
+http://purl.obolibrary.org/obo/FOODON_03411265,Zingiber officinale Roscoe,03411265
+http://purl.obolibrary.org/obo/FOODON_03411265,Zingiberaceae,03411265
+http://purl.obolibrary.org/obo/FOODON_03412971,Zingiberaceae,03412971
+http://purl.obolibrary.org/obo/FOODON_03411267,Mentha,03411267
+http://purl.obolibrary.org/obo/FOODON_03411267,Mentha L.,03411267
+http://purl.obolibrary.org/obo/FOODON_03411267,Mentha spp.,03411267
+http://purl.obolibrary.org/obo/FOODON_03411268,Lens culinaris Medik.,03411268
+http://purl.obolibrary.org/obo/FOODON_03411271,Bambusa  Schreb.,03411271
+http://purl.obolibrary.org/obo/FOODON_03411271,Bambusa spp.,03411271
+http://purl.obolibrary.org/obo/FOODON_03411272,Prunus dulcis (Mill.) D. A. Webb,03411272
+http://purl.obolibrary.org/obo/FOODON_03411272,Prunus dulcis (Mill.) D.A.Webb,03411272
+http://purl.obolibrary.org/obo/FOODON_03411272,Prunus dulcis (P. Mill.) D.A. Webber,03411272
+http://purl.obolibrary.org/obo/FOODON_03411274,Cuminum cyminum L.,03411274
+http://purl.obolibrary.org/obo/FOODON_03411275,Citrus limon (L.) Burm. f.,03411275
+http://purl.obolibrary.org/obo/FOODON_03411275,Citrus limon (L.) Burm. fil.,03411275
+http://purl.obolibrary.org/obo/FOODON_03411275,Citrus ×limon (L.) Burm. f. (pro sp.),03411275
+http://purl.obolibrary.org/obo/FOODON_03411276,Lycopersicon esculentum Mill.,03411276
+http://purl.obolibrary.org/obo/FOODON_03411608,Lycopersicon esculentum Mill.,03411608
+http://purl.obolibrary.org/obo/FOODON_03411276,Lycopersicon esculentum var. esculentum P. Mill.,03411276
+http://purl.obolibrary.org/obo/FOODON_03411276,Solanum lycopersicum L.,03411276
+http://purl.obolibrary.org/obo/FOODON_03411281,Brassica oleracea L.,03411281
+http://purl.obolibrary.org/obo/FOODON_03411406,Brassica oleracea L.,03411406
+http://purl.obolibrary.org/obo/FOODON_03411281,Brassica oleracea L. var. sabellica L.,03411281
+http://purl.obolibrary.org/obo/FOODON_03411281,Brassica oleracea var. sabellica L.,03411281
+http://purl.obolibrary.org/obo/FOODON_03411284,Spondias dulcis Parkinson,03411284
+http://purl.obolibrary.org/obo/FOODON_03411284,Spondias dulcis Sol. ex Parkinson,03411284
+http://purl.obolibrary.org/obo/FOODON_03411294,Allium schoenoprasum L.,03411294
+http://purl.obolibrary.org/obo/FOODON_03411295,"Serpentes Linnaeus, 1758",03411295
+http://purl.obolibrary.org/obo/FOODON_03411296,Pimpinella anisum L.,03411296
+http://purl.obolibrary.org/obo/FOODON_03411300,Allium,03411300
+http://purl.obolibrary.org/obo/FOODON_03411300,Allium L.,03411300
+http://purl.obolibrary.org/obo/FOODON_03411300,Allium sp.,03411300
+http://purl.obolibrary.org/obo/FOODON_03411303,Salvia,03411303
+http://purl.obolibrary.org/obo/FOODON_03411303,Salvia L.,03411303
+http://purl.obolibrary.org/obo/FOODON_03411303,Salvia officinalis L.,03411303
+http://purl.obolibrary.org/obo/FOODON_03411303,Salvia spp.,03411303
+http://purl.obolibrary.org/obo/FOODON_03411305,Coffea arabica L.,03411305
+http://purl.obolibrary.org/obo/FOODON_03411308,Allium ampeloprasum var. porrum,03411308
+http://purl.obolibrary.org/obo/FOODON_03411308,Allium porrum L.,03411308
+http://purl.obolibrary.org/obo/FOODON_03411309,Beta vulgaris L.,03411309
+http://purl.obolibrary.org/obo/FOODON_03411313,Secale cereale L.,03411313
+http://purl.obolibrary.org/obo/FOODON_03411314,Cichorium endivia L.,03411314
+http://purl.obolibrary.org/obo/FOODON_03411315,Raphanus sativus L. var. acanthiformis Makino,03411315
+http://purl.obolibrary.org/obo/FOODON_03411318,Theobroma cacao L.,03411318
+http://purl.obolibrary.org/obo/FOODON_03411319,"Catostomus Lesueur, 1817",03411319
+http://purl.obolibrary.org/obo/FOODON_03411322,lowland rice,03411322
+http://purl.obolibrary.org/obo/FOODON_03411322,upland rice,03411322
+http://purl.obolibrary.org/obo/FOODON_03411328,"Capra hircus Linnaeus, 1758",03411328
+http://purl.obolibrary.org/obo/FOODON_03411329,Vitis,03411329
+http://purl.obolibrary.org/obo/FOODON_03411333,Psidium guajava L.,03411333
+http://purl.obolibrary.org/obo/FOODON_03411338,Pisum sativum L.,03411338
+http://purl.obolibrary.org/obo/FOODON_03411344,Pyrus communis L.,03411344
+http://purl.obolibrary.org/obo/FOODON_03411344,pyrus communis,03411344
+http://purl.obolibrary.org/obo/FOODON_03411348,"Alosa Linck, 1790",03411348
+http://purl.obolibrary.org/obo/FOODON_03411352,Manihot esculenta Crantz,03411352
+http://purl.obolibrary.org/obo/FOODON_03411353,Capsicum annuum L. var. annuum,03411353
+http://purl.obolibrary.org/obo/FOODON_03413722,Capsicum annuum L. var. annuum,03413722
+http://purl.obolibrary.org/obo/FOODON_03411354,"Ammodytes Linnaeus, 1758",03411354
+http://purl.obolibrary.org/obo/FOODON_03411355,Vanilla,03411355
+http://purl.obolibrary.org/obo/FOODON_03411355,Vanilla Mill.,03411355
+http://purl.obolibrary.org/obo/FOODON_03411355,Vanilla planifolia Andr.,03411355
+http://purl.obolibrary.org/obo/FOODON_03411355,Vanilla spp.,03411355
+http://purl.obolibrary.org/obo/FOODON_03411358,X Triticosecale,03411358
+http://purl.obolibrary.org/obo/FOODON_03411358,X Triticosecale Wittm.,03411358
+http://purl.obolibrary.org/obo/FOODON_03411358,X Triticosecale rimpaui Wittm.,03411358
+http://purl.obolibrary.org/obo/FOODON_03411358,X Triticosecale sp.,03411358
+http://purl.obolibrary.org/obo/FOODON_03411358,×Triticosecale rimpaui Wittm.,03411358
+http://purl.obolibrary.org/obo/FOODON_03411367,Vicia faba L.,03411367
+http://purl.obolibrary.org/obo/FOODON_03411663,Vicia faba L.,03411663
+http://purl.obolibrary.org/obo/FOODON_03411367,Vicia faba L. (varieties for human consumption),03411367
+http://purl.obolibrary.org/obo/FOODON_03411369,Brassica oleracea L. var. gongylodes L.,03411369
+http://purl.obolibrary.org/obo/FOODON_03411369,Brassica oleracea var. gongylodes L.,03411369
+http://purl.obolibrary.org/obo/FOODON_03411375,Zizania,03411375
+http://purl.obolibrary.org/obo/FOODON_03411375,Zizania L.,03411375
+http://purl.obolibrary.org/obo/FOODON_03411375,Zizania aquatica L.,03411375
+http://purl.obolibrary.org/obo/FOODON_03411377,Angelica,03411377
+http://purl.obolibrary.org/obo/FOODON_03411377,Angelica L.,03411377
+http://purl.obolibrary.org/obo/FOODON_03411377,Angelica archangelica L.,03411377
+http://purl.obolibrary.org/obo/FOODON_03411377,Angelica spp.,03411377
+http://purl.obolibrary.org/obo/FOODON_03411378,Saccharum officinarum L.,03411378
+http://purl.obolibrary.org/obo/FOODON_03411379,Zea mays L. ssp. mays,03411379
+http://purl.obolibrary.org/obo/FOODON_03411379,Zea mays L. subsp. mays,03411379
+http://purl.obolibrary.org/obo/FOODON_03411379,Zea mays ssp. mays L.,03411379
+http://purl.obolibrary.org/obo/FOODON_03414507,Zea mays ssp. mays L.,03414507
+http://purl.obolibrary.org/obo/FOODON_03411381,Coriandrum sativum L.,03411381
+http://purl.obolibrary.org/obo/FOODON_03411385,Brassica oleracea L. var. viridis L.,03411385
+http://purl.obolibrary.org/obo/FOODON_03411388,Rubus Hybr.,03411388
+http://purl.obolibrary.org/obo/FOODON_03412609,Rubus Hybr.,03412609
+http://purl.obolibrary.org/obo/FOODON_03411390,Lactuca sativa L.,03411390
+http://purl.obolibrary.org/obo/FOODON_03411396,"Ethmidium Thompson, 1916",03411396
+http://purl.obolibrary.org/obo/FOODON_03411397,Phaseolus lunatus L. var. lunatus,03411397
+http://purl.obolibrary.org/obo/FOODON_03411401,Rubus loganobaccus L.H. Bailey,03411401
+http://purl.obolibrary.org/obo/FOODON_03411401,Rubus loganobaccus L.H.Bailey,03411401
+http://purl.obolibrary.org/obo/FOODON_03411404,Cucumis sativus L. ssp. sativus,03411404
+http://purl.obolibrary.org/obo/FOODON_03411406,Brassica oleracea var. oleracea L.,03411406
+http://purl.obolibrary.org/obo/FOODON_03411407,Rubus fruticosus L.,03411407
+http://purl.obolibrary.org/obo/FOODON_03411407,Rubus fruticosus aggregate,03411407
+http://purl.obolibrary.org/obo/FOODON_03411414,"Clupea Linnaeus, 1758",03411414
+http://purl.obolibrary.org/obo/FOODON_03411415,Asparagus officinalis L.,03411415
+http://purl.obolibrary.org/obo/FOODON_03411425,Curcuma longa L.,03411425
+http://purl.obolibrary.org/obo/FOODON_03411428,Taraxacum officinale F.H. Wigg.,03411428
+http://purl.obolibrary.org/obo/FOODON_03411428,Taraxacum officinale F.H. Wigg. ssp. ceratophorum (Ledeb.) Schinz ex Thell.,03411428
+http://purl.obolibrary.org/obo/FOODON_03411428,Taraxacum officinale F.H. Wigg. ssp. officinale,03411428
+http://purl.obolibrary.org/obo/FOODON_03411428,Taraxacum officinale G.H. Weber ex Wiggers,03411428
+http://purl.obolibrary.org/obo/FOODON_03411428,"Taraxacum officinale Weber ex F.H.Wigg., s.l.",03411428
+http://purl.obolibrary.org/obo/FOODON_03411428,Taraxacum officinale aggregate,03411428
+http://purl.obolibrary.org/obo/FOODON_03411428,Taraxacum officinale ssp. officinale G.H. Weber ex Wiggers,03411428
+http://purl.obolibrary.org/obo/FOODON_03411428,Taraxacum officinale ssp. vulgare (Lam.) Schinz & R. Keller,03411428
+http://purl.obolibrary.org/obo/FOODON_03411429,Citrus reticulata Blanco,03411429
+http://purl.obolibrary.org/obo/FOODON_03411436,Persica vulgaris var. nectarina (Aiton) Holub,03411436
+http://purl.obolibrary.org/obo/FOODON_03411436,Prunus persica (L.) Batsch var. nucipersica (Suckow) C.K. Schneid.,03411436
+http://purl.obolibrary.org/obo/FOODON_03411436,Prunus persica (L.) Batsch var. nucipersica (Suckow) C.K.Schneid.,03411436
+http://purl.obolibrary.org/obo/FOODON_03411443,Brassica oleracea L. var. italica Plenck,03411443
+http://purl.obolibrary.org/obo/FOODON_03411444,Anthriscus cerefolium (L.) Hoffm.,03411444
+http://purl.obolibrary.org/obo/FOODON_03411455,garden snail,03411455
+http://purl.obolibrary.org/obo/FOODON_03411455,"snail, garden",03411455
+http://purl.obolibrary.org/obo/FOODON_03411457,"Gallus gallus (Linnaeus, 1758)",03411457
+http://purl.obolibrary.org/obo/FOODON_03411458,Solanum melongena L.,03411458
+http://purl.obolibrary.org/obo/FOODON_03411460,"Phasianus Linnaeus, 1758",03411460
+http://purl.obolibrary.org/obo/FOODON_03411464,Illicium verum J.D. Hook,03411464
+http://purl.obolibrary.org/obo/FOODON_03411466,Cynara cardunculus L.,03411466
+http://purl.obolibrary.org/obo/FOODON_03411466,Cynara scolymus L.,03411466
+http://purl.obolibrary.org/obo/FOODON_03411469,Artemisia dracunculus L.,03411469
+http://purl.obolibrary.org/obo/FOODON_03411470,Persea americana Mill.,03411470
+http://purl.obolibrary.org/obo/FOODON_03411470,Persea americana P. Mill.,03411470
+http://purl.obolibrary.org/obo/FOODON_03411472,Cinnamomum,03411472
+http://purl.obolibrary.org/obo/FOODON_03411472,Cinnamomum Schaeff.,03411472
+http://purl.obolibrary.org/obo/FOODON_03411472,Cinnamomum spp.,03411472
+http://purl.obolibrary.org/obo/FOODON_03411472,Cinnamomum verum J. Presl,03411472
+http://purl.obolibrary.org/obo/FOODON_03411472,Cinnamomum verum J.Presl,03411472
+http://purl.obolibrary.org/obo/FOODON_03411473,Citrus X tangelo J. Ingram & H. Moore,03411473
+http://purl.obolibrary.org/obo/FOODON_03411473,Citrus x tangelo J. W. Ingram & H. E. Moore,03411473
+http://purl.obolibrary.org/obo/FOODON_03411473,Citrus x tangelo J.W.Ingram & H.E.Moore,03411473
+http://purl.obolibrary.org/obo/FOODON_03411473,Citrus ×tangelo J.W. Ingram & H.E. Moore,03411473
+http://purl.obolibrary.org/obo/FOODON_03411478,baby onion,03411478
+http://purl.obolibrary.org/obo/FOODON_03411478,gibbon,03411478
+http://purl.obolibrary.org/obo/FOODON_03411478,green onion,03411478
+http://purl.obolibrary.org/obo/FOODON_03411478,precious onions,03411478
+http://purl.obolibrary.org/obo/FOODON_03411478,spring onion,03411478
+http://purl.obolibrary.org/obo/FOODON_03411478,syboe,03411478
+http://purl.obolibrary.org/obo/FOODON_03411478,yard onion,03411478
+http://purl.obolibrary.org/obo/FOODON_03411479,Salmo trutta,03411479
+http://purl.obolibrary.org/obo/FOODON_03411479,Salmo trutta Berg 1908,03411479
+http://purl.obolibrary.org/obo/FOODON_03411479,"Salmo trutta Linnaeus, 1758",03411479
+http://purl.obolibrary.org/obo/FOODON_03411483,Pastinaca sativa L.,03411483
+http://purl.obolibrary.org/obo/FOODON_03411488,Malus coronaria (L.) Mill.,03411488
+http://purl.obolibrary.org/obo/FOODON_03411488,Malus coronaria (L.) P. Mill.,03411488
+http://purl.obolibrary.org/obo/FOODON_03411489,Argopecten irradians,03411489
+http://purl.obolibrary.org/obo/FOODON_03411489,Pecten laquaetus,03411489
+http://purl.obolibrary.org/obo/FOODON_03411489,pecten aequiscleatus,03411489
+http://purl.obolibrary.org/obo/FOODON_03411491,Vaccinium L.,03411491
+http://purl.obolibrary.org/obo/FOODON_03411492,Nasturtium officinale R.Br.,03411492
+http://purl.obolibrary.org/obo/FOODON_03411492,Nasturtium officinale W. T. Aiton,03411492
+http://purl.obolibrary.org/obo/FOODON_03411492,Nasturtium officinale W.T. Aiton,03411492
+http://purl.obolibrary.org/obo/FOODON_03411492,Rorippa nasturtium-aquaticum (L.) Hayek,03411492
+http://purl.obolibrary.org/obo/FOODON_03411494,Rubus L.,03411494
+http://purl.obolibrary.org/obo/FOODON_03414206,Rubus L.,03414206
+http://purl.obolibrary.org/obo/FOODON_03411495,Rosmarinus officinalis L.,03411495
+http://purl.obolibrary.org/obo/FOODON_03411498,Lithodes ferox Filhol 1885,03411498
+http://purl.obolibrary.org/obo/FOODON_03411499,Xanthosoma sagittifolium (L.) Schott,03411499
+http://purl.obolibrary.org/obo/FOODON_03411507,Citrus X paradisi Macfad. (pro sp.),03411507
+http://purl.obolibrary.org/obo/FOODON_03411507,Citrus paradisi Macfad.,03411507
+http://purl.obolibrary.org/obo/FOODON_03411507,Citrus x paradisi Macfad.,03411507
+http://purl.obolibrary.org/obo/FOODON_03411507,Citrus ×paradisi Macfad. (pro sp.),03411507
+http://purl.obolibrary.org/obo/FOODON_03411510,"Lutjanus Bloch, 1790",03411510
+http://purl.obolibrary.org/obo/FOODON_03411510,"Lutjanus lutjanus Bloch, 1790",03411510
+http://purl.obolibrary.org/obo/FOODON_03411530,Fortunella Swingle,03411530
+http://purl.obolibrary.org/obo/FOODON_03411533,Corylus L.,03411533
+http://purl.obolibrary.org/obo/FOODON_03411538,Allium cepa L.,03411538
+http://purl.obolibrary.org/obo/FOODON_03411538,Allium cepa L. var. aggregatum G. Don,03411538
+http://purl.obolibrary.org/obo/FOODON_03411538,Allium cepa L. var. aggregatum G.Don,03411538
+http://purl.obolibrary.org/obo/FOODON_03411549,Carum carvi L.,03411549
+http://purl.obolibrary.org/obo/FOODON_03411551,Tragopogon porrifolius L.,03411551
+http://purl.obolibrary.org/obo/FOODON_03411552,Cichorium intybus L.,03411552
+http://purl.obolibrary.org/obo/FOODON_03411555,Phaseolus vulgaris L. ssp. vulgaris,03411555
+http://purl.obolibrary.org/obo/FOODON_03411556,Cinnamomum burmanii Bl.,03411556
+http://purl.obolibrary.org/obo/FOODON_03412944,Cinnamomum burmanii Bl.,03412944
+http://purl.obolibrary.org/obo/FOODON_03411556,Cinnamomum burmannii (Nees & T. Nees) Blume,03411556
+http://purl.obolibrary.org/obo/FOODON_03411556,Cinnamomum burmannii (Nees & T.Nees) Blume,03411556
+http://purl.obolibrary.org/obo/FOODON_03411556,Cinnamomum burmannii (Nees & Th. Nees) Nees ex Blume,03411556
+http://purl.obolibrary.org/obo/FOODON_03411563,fjerkrae,03411563
+http://purl.obolibrary.org/obo/FOODON_03411563,gamebird,03411563
+http://purl.obolibrary.org/obo/FOODON_03411569,"Cantharellus cibarius Fr., 1821",03411569
+http://purl.obolibrary.org/obo/FOODON_03411575,"Clupea pallasi Valenciennes, 1847",03411575
+http://purl.obolibrary.org/obo/FOODON_03411575,Clupea pallasii,03411575
+http://purl.obolibrary.org/obo/FOODON_03411575,Clupea pallasii Valenciennes 1847,03411575
+http://purl.obolibrary.org/obo/FOODON_03411575,"Clupea pallasii Valenciennes in Cuvier and Valenciennes, 1847",03411575
+http://purl.obolibrary.org/obo/FOODON_03411584,Castanea sativa Mill.,03411584
+http://purl.obolibrary.org/obo/FOODON_03411590,Cinnamomum loureiroi Nees,03411590
+http://purl.obolibrary.org/obo/FOODON_03411608,"Solanum lycopersicum L. var. cerasiforme (Dunal) Spooner, G.J. Anderson & R.K. Jansen",03411608
+http://purl.obolibrary.org/obo/FOODON_03411608,Solanum lycopersicum var. cerasiforme (Alef.) Fosberg,03411608
+http://purl.obolibrary.org/obo/FOODON_03411608,"Solanum lycopersicum var. cerasiforme (Dunal) Spooner, J. Anderson & R.K. Jansen",03411608
+http://purl.obolibrary.org/obo/FOODON_03411611,Brassica oleracea L. var. gemmifera DC.,03411611
+http://purl.obolibrary.org/obo/FOODON_03411611,Brassica oleracea L. var. gemmifera Zenker,03411611
+http://purl.obolibrary.org/obo/FOODON_03411611,Brassica oleracea var. gemmifera (DC.) Zenker,03411611
+http://purl.obolibrary.org/obo/FOODON_03411611,Brassica oleracea var. gemmifera DC.,03411611
+http://purl.obolibrary.org/obo/FOODON_03411635,"Lentinula edodes (Berk.) Pegler, 1976",03411635
+http://purl.obolibrary.org/obo/FOODON_03411636,Colocasia esculenta (L.) Schott.,03411636
+http://purl.obolibrary.org/obo/FOODON_03411637,"Volvariella volvacea (Bull.) Singer, 1951",03411637
+http://purl.obolibrary.org/obo/FOODON_03411640,"Merlangius Geoffroy, 1767",03411640
+http://purl.obolibrary.org/obo/FOODON_03411641,Rumex acetosa L.,03411641
+http://purl.obolibrary.org/obo/FOODON_03411642,Portulaca oleracea L. ssp. sativa (Haw.) Celak.,03411642
+http://purl.obolibrary.org/obo/FOODON_03411645,"Pleurotus cystidiosus O.K. Mill., 1969",03411645
+http://purl.obolibrary.org/obo/FOODON_03411662,Prunus domestica subsp. insititia (L.) C. K. Schneid.,03411662
+http://purl.obolibrary.org/obo/FOODON_03411663,Vicia faba L. (varieties for fodder),03411663
+http://purl.obolibrary.org/obo/FOODON_03411663,Vicia faba var. equina Pers.,03411663
+http://purl.obolibrary.org/obo/FOODON_03411665,Elettaria cardamomum (L.) Maton,03411665
+http://purl.obolibrary.org/obo/FOODON_03411675,Prunus domestica L. subsp. italica (Borkh.) Gams,03411675
+http://purl.obolibrary.org/obo/FOODON_03411675,Prunus domestica subsp. italica (Borkh.) Gams ex Hegi,03411675
+http://purl.obolibrary.org/obo/FOODON_03411676,Prunus cerasifera Ehrh.,03411676
+http://purl.obolibrary.org/obo/FOODON_03411696,Trigonella foenum-graecum L.,03411696
+http://purl.obolibrary.org/obo/FOODON_03411699,Virola surinamensis (Rol. ex Rottb.) Warb.,03411699
+http://purl.obolibrary.org/obo/FOODON_03411701,Lupinus albus L.,03411701
+http://purl.obolibrary.org/obo/FOODON_03411708,Crataegus,03411708
+http://purl.obolibrary.org/obo/FOODON_03411708,Crataegus L.,03411708
+http://purl.obolibrary.org/obo/FOODON_03411708,Crataegus sp.,03411708
+http://purl.obolibrary.org/obo/FOODON_03411715,Quercus L.,03411715
+http://purl.obolibrary.org/obo/FOODON_03411715,Quercus sp.,03411715
+http://purl.obolibrary.org/obo/FOODON_03411720,Lagenaria siceraria (Molina) Standl.,03411720
+http://purl.obolibrary.org/obo/FOODON_03411724,Vigna unguiculata (L.) Walp. ssp. sesquipedalis (L.) Verdc.,03411724
+http://purl.obolibrary.org/obo/FOODON_03411724,Vigna unguiculata (L.) Walp. subsp. sesquipedalis (L.) Verdc.,03411724
+http://purl.obolibrary.org/obo/FOODON_03411724,Vigna unguiculata subsp. sesquipedalis (L.) Verdc.,03411724
+http://purl.obolibrary.org/obo/FOODON_03411725,Lablab purpureus (L.) Sweet,03411725
+http://purl.obolibrary.org/obo/FOODON_03411733,Symplocarpus foetidus (L.) Salisb. ex Nutt.,03411733
+http://purl.obolibrary.org/obo/FOODON_03411741,Auricularia,03411741
+http://purl.obolibrary.org/obo/FOODON_03411743,Rhodophyta,03411743
+http://purl.obolibrary.org/obo/FOODON_03411747,Undaria pinnatifida (Harvey) Suringar 1873,03411747
+http://purl.obolibrary.org/obo/FOODON_03411751,Citrus clementina hort. ex Tanaka,03411751
+http://purl.obolibrary.org/obo/FOODON_03411752,Perideridia oregana (S. Watson) Mathias,03411752
+http://purl.obolibrary.org/obo/FOODON_03411755,jack family,03411755
+http://purl.obolibrary.org/obo/FOODON_03411755,scad family,03411755
+http://purl.obolibrary.org/obo/FOODON_03411785,Mugil gaimardianus,03411785
+http://purl.obolibrary.org/obo/FOODON_03411785,"Mugil gaimardianus Desmarest in Bory de Saint-Vincent, 1831",03411785
+http://purl.obolibrary.org/obo/FOODON_03411789,Cottidae,03411789
+http://purl.obolibrary.org/obo/FOODON_03411797,Paralonchurus peruanus,03411797
+http://purl.obolibrary.org/obo/FOODON_03411797,"Paralonchurus peruanus (Steindachner, 1875)",03411797
+http://purl.obolibrary.org/obo/FOODON_03411813,"Haemulon Cuvier, 1829",03411813
+http://purl.obolibrary.org/obo/FOODON_03411843,Theragra chalcogramma,03411843
+http://purl.obolibrary.org/obo/FOODON_03411843,Theragra chalcogramma (Pallas 1814),03411843
+http://purl.obolibrary.org/obo/FOODON_03411843,"Theragra chalcogramma (Pallas, 1811)",03411843
+http://purl.obolibrary.org/obo/FOODON_03411843,"Theragra chalcogramma (Pallas, 1814)",03411843
+http://purl.obolibrary.org/obo/FOODON_03411845,Macrozoarces americanus (Bloch & Schneider 1801),03411845
+http://purl.obolibrary.org/obo/FOODON_03411845,"Macrozoarces americanus (Schneider, 1801)",03411845
+http://purl.obolibrary.org/obo/FOODON_03411878,"Solea solea (Linnaeus, 1758)",03411878
+http://purl.obolibrary.org/obo/FOODON_03411878,Solea vulgaris,03411878
+http://purl.obolibrary.org/obo/FOODON_03411878,"Solea vulgaris Quensel, 1806",03411878
+http://purl.obolibrary.org/obo/FOODON_03411897,Acipenseridae,03411897
+http://purl.obolibrary.org/obo/FOODON_03411898,Citrus aurantium ssp. bergamia (Risso & Poit.) Wight & Arn. ex Engler,03411898
+http://purl.obolibrary.org/obo/FOODON_03411898,Citrus bergamia Risso & Poit.,03411898
+http://purl.obolibrary.org/obo/FOODON_03411898,Citrus ×aurantium L. ssp. bergamia (Risso & Poit.) Wight & Arn. ex Engl.,03411898
+http://purl.obolibrary.org/obo/FOODON_03411905,"Osmerus mordax mordax (Mitchill, 1814)",03411905
+http://purl.obolibrary.org/obo/FOODON_03413499,"Osmerus mordax mordax (Mitchill, 1814)",03413499
+http://purl.obolibrary.org/obo/FOODON_03411908,"Notropis Rafinesque, 1818",03411908
+http://purl.obolibrary.org/obo/FOODON_03411919,Vigna unguiculata (L.) Walp. ssp. cylindrica (L.) Verdc.,03411919
+http://purl.obolibrary.org/obo/FOODON_03411919,Vigna unguiculata ssp. cylindrica (L.) Verdc.,03411919
+http://purl.obolibrary.org/obo/FOODON_03411919,Vigna unguiculata subsp. cylindrica (L.) Verdc.,03411919
+http://purl.obolibrary.org/obo/FOODON_03411919,Vigna unguiculata unguiculata Biflora Group,03411919
+http://purl.obolibrary.org/obo/FOODON_03411946,Pecten novaezelandiae,03411946
+http://purl.obolibrary.org/obo/FOODON_03411946,Pecten novaezelandiae Reeve 1852,03411946
+http://purl.obolibrary.org/obo/FOODON_03411946,"Pecten novaezelandiae Reeve, 1852",03411946
+http://purl.obolibrary.org/obo/FOODON_03411952,Crassostrea glomerata,03411952
+http://purl.obolibrary.org/obo/FOODON_03411952,"Saccostrea glomerata (Gould, 1850)",03411952
+http://purl.obolibrary.org/obo/FOODON_03411955,Concholepas concholepas,03411955
+http://purl.obolibrary.org/obo/FOODON_03411955,Concholepas concholepas (Bruguiere 1789),03411955
+http://purl.obolibrary.org/obo/FOODON_03411963,Perna canaliculus,03411963
+http://purl.obolibrary.org/obo/FOODON_03411963,Perna canaliculus (Gmelin 1791),03411963
+http://purl.obolibrary.org/obo/FOODON_03411964,Acanthocardia aculeata,03411964
+http://purl.obolibrary.org/obo/FOODON_03411964,"Acanthocardia aculeata (Linnaeus, 1758)",03411964
+http://purl.obolibrary.org/obo/FOODON_03412001,Vitis labrusca L.,03412001
+http://purl.obolibrary.org/obo/FOODON_03412122,Vitis labrusca L.,03412122
+http://purl.obolibrary.org/obo/FOODON_03412004,Percidae,03412004
+http://purl.obolibrary.org/obo/FOODON_03412014,Mespilus germanica L.,03412014
+http://purl.obolibrary.org/obo/FOODON_03412016,Cyphomandra betacea (Cav.) Sendtn.,03412016
+http://purl.obolibrary.org/obo/FOODON_03412016,Cyphomandra betacea (Cav.) Sendtner,03412016
+http://purl.obolibrary.org/obo/FOODON_03412016,Solanum betaceum Cav.,03412016
+http://purl.obolibrary.org/obo/FOODON_03412017,Osmunda cinnamomea L.,03412017
+http://purl.obolibrary.org/obo/FOODON_03412017,Osmundastrum cinnamomea (L.) C. Presl,03412017
+http://purl.obolibrary.org/obo/FOODON_03412021,Morchella conica Pers 1801,03412021
+http://purl.obolibrary.org/obo/FOODON_03412022,"Coprinopsis atramentaria (Bull.) Redhead, Vilgalys & Moncalvo 2001",03412022
+http://purl.obolibrary.org/obo/FOODON_03412023,"Agaricus campestris L., 1753",03412023
+http://purl.obolibrary.org/obo/FOODON_03412024,Verpa bohemica (Krombh.) J.Schröt. (1893),03412024
+http://purl.obolibrary.org/obo/FOODON_03412025,"Gyromitra montana Harmaja, 1973",03412025
+http://purl.obolibrary.org/obo/FOODON_03412033,"Boletus edulis Bull., 1782",03412033
+http://purl.obolibrary.org/obo/FOODON_03412039,"Spirulina Turpin Ex Gomont, 1893",03412039
+http://purl.obolibrary.org/obo/FOODON_03412041,Citrullus lanatus (Thunb.) Matsum. & Nakai var. citroides (L.H. Bailey) Mansf.,03412041
+http://purl.obolibrary.org/obo/FOODON_03412041,Citrullus lanatus var. citroides (Bailey) Mansf.,03412041
+http://purl.obolibrary.org/obo/FOODON_03412041,Citrullus lanatus var. citroides (L. H. Bailey) Mansf.,03412041
+http://purl.obolibrary.org/obo/FOODON_03412042,Cucumis melo var. chito (C. Morren) Naudin,03412042
+http://purl.obolibrary.org/obo/FOODON_03412044,Prunus virginiana L.,03412044
+http://purl.obolibrary.org/obo/FOODON_03412045,Matricaria chamomilla L.,03412045
+http://purl.obolibrary.org/obo/FOODON_03412045,Matricaria recutita L.,03412045
+http://purl.obolibrary.org/obo/FOODON_03412048,Glycyrrhiza glabra L.,03412048
+http://purl.obolibrary.org/obo/FOODON_03412051,Tilia,03412051
+http://purl.obolibrary.org/obo/FOODON_03412051,Tilia L.,03412051
+http://purl.obolibrary.org/obo/FOODON_03412051,Tilia spp.,03412051
+http://purl.obolibrary.org/obo/FOODON_03412056,Senna,03412056
+http://purl.obolibrary.org/obo/FOODON_03412056,Senna Mill.,03412056
+http://purl.obolibrary.org/obo/FOODON_03412056,Senna spp.,03412056
+http://purl.obolibrary.org/obo/FOODON_03412058,Chenopodium ambrosioides L.,03412058
+http://purl.obolibrary.org/obo/FOODON_03412058,Dysphania ambrosioides (L.) Mosyakin & Clemants,03412058
+http://purl.obolibrary.org/obo/FOODON_03412059,Ilex paraguariensis St.-Hil.,03412059
+http://purl.obolibrary.org/obo/FOODON_03412065,Smilax aristolochiifolia,03412065
+http://purl.obolibrary.org/obo/FOODON_03412070,Lathyrus sativus L.,03412070
+http://purl.obolibrary.org/obo/FOODON_03412071,Brassica oleracea L. var. alba DC.,03412071
+http://purl.obolibrary.org/obo/FOODON_03412071,Brassica oleracea var. capitata L.,03412071
+http://purl.obolibrary.org/obo/FOODON_03412073,amanita rubescens,03412073
+http://purl.obolibrary.org/obo/FOODON_03412075,"Lactarius helvus (Fr.) Fr., 1838",03412075
+http://purl.obolibrary.org/obo/FOODON_03412076,"Psilocybe semilanceata (Fr.) P. Kumm., 1871",03412076
+http://purl.obolibrary.org/obo/FOODON_03412077,Brassica chinensis L.,03412077
+http://purl.obolibrary.org/obo/FOODON_03412077,Brassica rapa L. subsp. chinensis (L.) Hanelt,03412077
+http://purl.obolibrary.org/obo/FOODON_03412397,Brassica rapa L. subsp. chinensis (L.) Hanelt,03412397
+http://purl.obolibrary.org/obo/FOODON_03412077,Brassica rapa subsp. chinensis (L.) Hanelt,03412077
+http://purl.obolibrary.org/obo/FOODON_03412087,Lactuca sativa L. var. crispa L.,03412087
+http://purl.obolibrary.org/obo/FOODON_03412091,Cucurbita maxima L. (Duch.),03412091
+http://purl.obolibrary.org/obo/FOODON_03412091,pumpkin plant,03412091
+http://purl.obolibrary.org/obo/FOODON_03412094,"Myocastor coypus (Molina, 1782)",03412094
+http://purl.obolibrary.org/obo/FOODON_03412094,"Myocastor coypus Molina, 1782",03412094
+http://purl.obolibrary.org/obo/FOODON_03412096,"Equus asinus Linnaeus, 1758",03412096
+http://purl.obolibrary.org/obo/FOODON_03412105,Jacquinotia edwardsii,03412105
+http://purl.obolibrary.org/obo/FOODON_03412105,"Jacquinotia edwardsii (Jacquinot, 1853)",03412105
+http://purl.obolibrary.org/obo/FOODON_03412115,Echinodermata,03412115
+http://purl.obolibrary.org/obo/FOODON_03412115,"Echinodermata Klein, 1734",03412115
+http://purl.obolibrary.org/obo/FOODON_03412117,"Leucoagaricus leucothites (Vittad.) Wasser, 1977",03412117
+http://purl.obolibrary.org/obo/FOODON_03412123,Vitis rotundifolia Michx.,03412123
+http://purl.obolibrary.org/obo/FOODON_03412123,Vitis rotundifolia Michx. var. rotundifolia,03412123
+http://purl.obolibrary.org/obo/FOODON_03412125,Prunus domestica L.,03412125
+http://purl.obolibrary.org/obo/FOODON_03412133,Castanospermum australe A. Cunn. & C. Fraser ex Hook.,03412133
+http://purl.obolibrary.org/obo/FOODON_03412133,Castanospermum australe A.Cunn. & C.Fraser ex Hook.,03412133
+http://purl.obolibrary.org/obo/FOODON_03412148,Lutjanus inermis,03412148
+http://purl.obolibrary.org/obo/FOODON_03412148,"Lutjanus inermis (Peters, 1869)",03412148
+http://purl.obolibrary.org/obo/FOODON_03412154,Brachyplatystoma flavicans (Castelnau 1855),03412154
+http://purl.obolibrary.org/obo/FOODON_03412156,Argemone mexicana L.,03412156
+http://purl.obolibrary.org/obo/FOODON_03412172,Momordica charantia L.,03412172
+http://purl.obolibrary.org/obo/FOODON_03412187,"Opsanus Rafinesque, 1818",03412187
+http://purl.obolibrary.org/obo/FOODON_03412205,Pleuroncodes monodon,03412205
+http://purl.obolibrary.org/obo/FOODON_03412205,Pleuroncodes monodon (H. Milne Edwards 1837),03412205
+http://purl.obolibrary.org/obo/FOODON_03412206,Cervimunida johni,03412206
+http://purl.obolibrary.org/obo/FOODON_03412206,Cervimunida johni Porter 1903,03412206
+http://purl.obolibrary.org/obo/FOODON_03412209,"Lithodidae Samouelle, 1819",03412209
+http://purl.obolibrary.org/obo/FOODON_03412214,Portunus trituberculatus (Miers 1876),03412214
+http://purl.obolibrary.org/obo/FOODON_03412214,"Portunus trituberculatus (Miers, 1876)",03412214
+http://purl.obolibrary.org/obo/FOODON_03412219,Birgus latro (Linnaeus 1767),03412219
+http://purl.obolibrary.org/obo/FOODON_03412225,Chionoecetes japonicus,03412225
+http://purl.obolibrary.org/obo/FOODON_03412260,"Suillus luteus (L.) Roussel, 1806",03412260
+http://purl.obolibrary.org/obo/FOODON_03412261,Paphies subtriangulata,03412261
+http://purl.obolibrary.org/obo/FOODON_03412261,Paphies ventricosa,03412261
+http://purl.obolibrary.org/obo/FOODON_03412262,Lippia graveolens Kunth,03412262
+http://purl.obolibrary.org/obo/FOODON_03412273,Cymbopogon citratus (DC.) Stapf.,03412273
+http://purl.obolibrary.org/obo/FOODON_03412274,"Astroscopus guttatus Abbott, 1860",03412274
+http://purl.obolibrary.org/obo/FOODON_03412277,"Labridae Cuvier, 1816",03412277
+http://purl.obolibrary.org/obo/FOODON_03412294,Sardinops caeruleus (Girard 1854),03412294
+http://purl.obolibrary.org/obo/FOODON_03412294,"Sardinops caeruleus (Girard, 1854)",03412294
+http://purl.obolibrary.org/obo/FOODON_03412315,Citrus natsudaidai Hayata,03412315
+http://purl.obolibrary.org/obo/FOODON_03412321,Turbo cornutus,03412321
+http://purl.obolibrary.org/obo/FOODON_03412321,Turbo cornutus Lightfoot 1786,03412321
+http://purl.obolibrary.org/obo/FOODON_03412326,"Ensis americanus (Gould, 1870)",03412326
+http://purl.obolibrary.org/obo/FOODON_03412331,Phleum pratense L.,03412331
+http://purl.obolibrary.org/obo/FOODON_03412337,Dactylis glomerata L.,03412337
+http://purl.obolibrary.org/obo/FOODON_03412338,Festuca arundinacea Schreb.,03412338
+http://purl.obolibrary.org/obo/FOODON_03412340,Frangula purshiana (DC.) Cooper,03412340
+http://purl.obolibrary.org/obo/FOODON_03412340,Frangula purshiana (DC.) J. G. Cooper,03412340
+http://purl.obolibrary.org/obo/FOODON_03412340,Rhamnus purshiana DC.,03412340
+http://purl.obolibrary.org/obo/FOODON_03412353,Patinopecten yessoensis,03412353
+http://purl.obolibrary.org/obo/FOODON_03412353,Patinopecten yessoensis (Jay 1857),03412353
+http://purl.obolibrary.org/obo/FOODON_03412358,Fissurella maxima,03412358
+http://purl.obolibrary.org/obo/FOODON_03412361,"Ganoderma lucidum (Curtis) P. Karst., 1881",03412361
+http://purl.obolibrary.org/obo/FOODON_03412361,Ganoderma lucidum (M.A.Curtis) P.Karst.,03412361
+http://purl.obolibrary.org/obo/FOODON_03412361,ganoderma lucidum,03412361
+http://purl.obolibrary.org/obo/FOODON_03412366,Cheilodactylus bergi Norman 1937,03412366
+http://purl.obolibrary.org/obo/FOODON_03412366,"Cheilodactylus bergi Norman, 1937",03412366
+http://purl.obolibrary.org/obo/FOODON_03412367,"Pinguipes Cuvier in Cuvier and Valenciennes, 1829",03412367
+http://purl.obolibrary.org/obo/FOODON_03412386,"Meretrix lusoria (Roding, 1798)",03412386
+http://purl.obolibrary.org/obo/FOODON_03412386,"Meretrix lusoria (Röding, 1798)",03412386
+http://purl.obolibrary.org/obo/FOODON_03412388,Pagrus auratus (Bloch & Schneider 1801),03412388
+http://purl.obolibrary.org/obo/FOODON_03412393,Paralichthys microps,03412393
+http://purl.obolibrary.org/obo/FOODON_03412393,"Paralichthys microps (Günther, 1881)",03412393
+http://purl.obolibrary.org/obo/FOODON_03412403,"Lepomis gibbosus (Linnaeus, 1758)",03412403
+http://purl.obolibrary.org/obo/FOODON_03412408,Rhopilema spp,03412408
+http://purl.obolibrary.org/obo/FOODON_03412408,Rhopilema spp.,03412408
+http://purl.obolibrary.org/obo/FOODON_03412410,Rhodymenia,03412410
+http://purl.obolibrary.org/obo/FOODON_03412413,"Malaclemys terrapin (Schoepff, 1793)",03412413
+http://purl.obolibrary.org/obo/FOODON_03412419,Allium tuberosum Rottler ex Spreng.,03412419
+http://purl.obolibrary.org/obo/FOODON_03412423,"Trichopsis Canestrini, 1860",03412423
+http://purl.obolibrary.org/obo/FOODON_03412438,"Crotalus Linnaeus, 1758",03412438
+http://purl.obolibrary.org/obo/FOODON_03412443,Leucaena leucocephala (Lam.) de Wit,03412443
+http://purl.obolibrary.org/obo/FOODON_03412446,Gyromitra esculenta (Pers.) Fr.,03412446
+http://purl.obolibrary.org/obo/FOODON_03412449,Sandoricum koetjape (Burm. f.) Merr.,03412449
+http://purl.obolibrary.org/obo/FOODON_03412455,Acacia pennata (L.) Willd.,03412455
+http://purl.obolibrary.org/obo/FOODON_03412457,Piper sarmentosum Roxb.,03412457
+http://purl.obolibrary.org/obo/FOODON_03412468,Citrus nobilis Lour.,03412468
+http://purl.obolibrary.org/obo/FOODON_03412468,Citrus x nobilis Lour.,03412468
+http://purl.obolibrary.org/obo/FOODON_03412469,Citrus temple hort. ex Yu. Tanaka,03412469
+http://purl.obolibrary.org/obo/FOODON_03412473,Lathyrus aphaca L.,03412473
+http://purl.obolibrary.org/obo/FOODON_03412473,yellow pea plant,03412473
+http://purl.obolibrary.org/obo/FOODON_03412476,"Ulva Linnaeus, 1753",03412476
+http://purl.obolibrary.org/obo/FOODON_03412496,Acheta domesticus,03412496
+http://purl.obolibrary.org/obo/FOODON_03412502,Chlorophyta,03412502
+http://purl.obolibrary.org/obo/FOODON_03412507,"Flammulina velutipes (Curtis) Singer, 1951",03412507
+http://purl.obolibrary.org/obo/FOODON_03412510,Cucurbita maxima Duchesne subsp. maxima,03412510
+http://purl.obolibrary.org/obo/FOODON_03412511,Cucurbita maxima Duchesne,03412511
+http://purl.obolibrary.org/obo/FOODON_03412523,Cucurbita maxima Duchesne,03412523
+http://purl.obolibrary.org/obo/FOODON_03412511,Cucurbitaceae,03412511
+http://purl.obolibrary.org/obo/FOODON_03412519,Physalis L.,03412519
+http://purl.obolibrary.org/obo/FOODON_03412519,Physalis spp.,03412519
+http://purl.obolibrary.org/obo/FOODON_03412522,"Lepista nuda (Bull.) Cooke, 1871",03412522
+http://purl.obolibrary.org/obo/FOODON_03412523,Hokkaido squash,03412523
+http://purl.obolibrary.org/obo/FOODON_03412523,red Hokkaido squash,03412523
+http://purl.obolibrary.org/obo/FOODON_03412523,sweet meat squash,03412523
+http://purl.obolibrary.org/obo/FOODON_03412535,Hoplunnis diomediana,03412535
+http://purl.obolibrary.org/obo/FOODON_03412535,"Hoplunnis diomediana Goode and Bean, 1896",03412535
+http://purl.obolibrary.org/obo/FOODON_03412539,Ficus aspera G. Forst.,03412539
+http://purl.obolibrary.org/obo/FOODON_03412561,Capsicum annuum L.,03412561
+http://purl.obolibrary.org/obo/FOODON_03412628,Capsicum annuum L.,03412628
+http://purl.obolibrary.org/obo/FOODON_03412561,Capsicum annuum L. var. glabriusculum (Dunal) Heiser & Pickersgill,03412561
+http://purl.obolibrary.org/obo/FOODON_03412561,Capsicum annuum var. glabriusculum (Dunal) Heiser & Pickersgill,03412561
+http://purl.obolibrary.org/obo/FOODON_03412565,Hoplopagrus guentherii,03412565
+http://purl.obolibrary.org/obo/FOODON_03412565,"Hoplopagrus guentherii Gill, 1862",03412565
+http://purl.obolibrary.org/obo/FOODON_03412572,"Hippocampus Rafinesque, 1810",03412572
+http://purl.obolibrary.org/obo/FOODON_03412590,Mactra sachalinensis,03412590
+http://purl.obolibrary.org/obo/FOODON_03412601,Alpinia galanga (L.) Sw.,03412601
+http://purl.obolibrary.org/obo/FOODON_03412601,Alpinia galanga (L.) Willd.,03412601
+http://purl.obolibrary.org/obo/FOODON_03412605,Caesio suevica Klunzinger 1884,03412605
+http://purl.obolibrary.org/obo/FOODON_03412605,"Caesio suevica Klunzinger, 1884",03412605
+http://purl.obolibrary.org/obo/FOODON_03412606,"Caesio striata Rüppell, 1830",03412606
+http://purl.obolibrary.org/obo/FOODON_03412616,Juglans mandshurica Maxim.,03412616
+http://purl.obolibrary.org/obo/FOODON_03412625,Citrus madurensis Lour.,03412625
+http://purl.obolibrary.org/obo/FOODON_03412625,X Citrofortunella microcarpa (Bunge) Wijnands,03412625
+http://purl.obolibrary.org/obo/FOODON_03412628,Capsicum anuum L.,03412628
+http://purl.obolibrary.org/obo/FOODON_03412636,Capsicum frutescens L.,03412636
+http://purl.obolibrary.org/obo/FOODON_03412638,Laminaria japonica Areschoug 1851,03412638
+http://purl.obolibrary.org/obo/FOODON_03412639,"Enteromorpha Link, 1820",03412639
+http://purl.obolibrary.org/obo/FOODON_03412641,Sargassum fusiforme Setchell 1931,03412641
+http://purl.obolibrary.org/obo/FOODON_03412657,"Cynoscion Gill, 1861",03412657
+http://purl.obolibrary.org/obo/FOODON_03412681,Haliotis iris,03412681
+http://purl.obolibrary.org/obo/FOODON_03412682,Paphies australis,03412682
+http://purl.obolibrary.org/obo/FOODON_03412682,Paphies australis (Gmelin 1791),03412682
+http://purl.obolibrary.org/obo/FOODON_03412684,Mesodesma ventricosum (Gray 1843),03412684
+http://purl.obolibrary.org/obo/FOODON_03412686,astacidae,03412686
+http://purl.obolibrary.org/obo/FOODON_03412686,astacoidea,03412686
+http://purl.obolibrary.org/obo/FOODON_03412686,cambaridaa,03412686
+http://purl.obolibrary.org/obo/FOODON_03412686,cambarus spp.,03412686
+http://purl.obolibrary.org/obo/FOODON_03412686,crawfish,03412686
+http://purl.obolibrary.org/obo/FOODON_03412686,crayfish,03412686
+http://purl.obolibrary.org/obo/FOODON_03412686,parastacidae,03412686
+http://purl.obolibrary.org/obo/FOODON_03412686,procambarus spp.,03412686
+http://purl.obolibrary.org/obo/FOODON_03412690,Ostrea lutaria Hutton 1873,03412690
+http://purl.obolibrary.org/obo/FOODON_03412690,"Ostrea lutaria Hutton, 1873",03412690
+http://purl.obolibrary.org/obo/FOODON_03412693,Coregonus reighardi,03412693
+http://purl.obolibrary.org/obo/FOODON_03412693,"Coregonus reighardi (Koelz, 1924)",03412693
+http://purl.obolibrary.org/obo/FOODON_03412696,"Gallinago Brisson, 1760",03412696
+http://purl.obolibrary.org/obo/FOODON_03412701,"Iguana Laurenti, 1768",03412701
+http://purl.obolibrary.org/obo/FOODON_03412722,Citrus reticulata Blanco ssp. unshiu (Marcow.) D.Rivera Núñez et al.,03412722
+http://purl.obolibrary.org/obo/FOODON_03412722,Citrus unshiu Marcow.,03412722
+http://purl.obolibrary.org/obo/FOODON_03412733,Prunus domestica L. subsp. syriaca (Borkh.) Janch.,03412733
+http://purl.obolibrary.org/obo/FOODON_03412734,Petroselinum crispum (Mill.) Nyman ex A. W. Hill var. tuberosum (Bernh.) Mart. Crov.,03412734
+http://purl.obolibrary.org/obo/FOODON_03412734,Petroselinum crispum (P. Mill.) Nyman ex A.W. Hill,03412734
+http://purl.obolibrary.org/obo/FOODON_03412734,Petroselinum crispum convar. radicosum (Alef.) Danert,03412734
+http://purl.obolibrary.org/obo/FOODON_03412735,"Armillaria mellea (Vahl) P. Kumm., 1871",03412735
+http://purl.obolibrary.org/obo/FOODON_03412737,Leccinum aurantiacum (Bull.) Gray 1821,03412737
+http://purl.obolibrary.org/obo/FOODON_03412738,Leccinum scabrum var. scabrum (Bull.) Gray 1821,03412738
+http://purl.obolibrary.org/obo/FOODON_03412740,"Lactarius deliciosus (L.) Gray, 1821",03412740
+http://purl.obolibrary.org/obo/FOODON_03412754,grey nurse shark,03412754
+http://purl.obolibrary.org/obo/FOODON_03412754,ragged tooth shark,03412754
+http://purl.obolibrary.org/obo/FOODON_03412764,Chrysophyllum albidum G. Don,03412764
+http://purl.obolibrary.org/obo/FOODON_03412766,Diospyros kaki L. f.,03412766
+http://purl.obolibrary.org/obo/FOODON_03412766,Diospyros kaki Thunb.,03412766
+http://purl.obolibrary.org/obo/FOODON_03412767,Feijoa sellowiana (O. Berg) O. Berg,03412767
+http://purl.obolibrary.org/obo/FOODON_03412771,Detarium microcarpum Guill. & Perr.,03412771
+http://purl.obolibrary.org/obo/FOODON_03412772,Detarium senegalense J. F. Gmel.,03412772
+http://purl.obolibrary.org/obo/FOODON_03412774,Fortunella margarita (Lour.) Swingle,03412774
+http://purl.obolibrary.org/obo/FOODON_03412780,Garcinia cambogia (Gaertn.) Desr.,03412780
+http://purl.obolibrary.org/obo/FOODON_03412780,Garcinia gummi-gutta (L.) N. Robson,03412780
+http://purl.obolibrary.org/obo/FOODON_03412781,Hylocereus undatus (Haw.) Britt. & Rose,03412781
+http://purl.obolibrary.org/obo/FOODON_03412781,Hylocereus undatus (Haw.) Britton & Rose,03412781
+http://purl.obolibrary.org/obo/FOODON_03412783,Lantana strigocamara R. W. Sanders,03412783
+http://purl.obolibrary.org/obo/FOODON_03412784,Sarcocephalus latifolius (Sm.) Bruce,03412784
+http://purl.obolibrary.org/obo/FOODON_03412791,Ancylobotrys capensis (Oliv.) Pichon,03412791
+http://purl.obolibrary.org/obo/FOODON_03412792,Saba senegalensis (A. DC.) Pichon,03412792
+http://purl.obolibrary.org/obo/FOODON_03412795,Ziziphus spina-christi (L.) Desf.,03412795
+http://purl.obolibrary.org/obo/FOODON_03412797,Carica x heilbornii V.M.Badillo nothovar. pentagona (Heilborn) V.M.Badillo,03412797
+http://purl.obolibrary.org/obo/FOODON_03412797,Vasconcellea x heilbornii (V. M. Badillo) V. M. Badillo,03412797
+http://purl.obolibrary.org/obo/FOODON_03412800,Fadogia homblei De Wild.,03412800
+http://purl.obolibrary.org/obo/FOODON_03412803,Garcinia buchananii Baker,03412803
+http://purl.obolibrary.org/obo/FOODON_03412805,Guarea Allam. ex L.,03412805
+http://purl.obolibrary.org/obo/FOODON_03412805,Guarea sp.,03412805
+http://purl.obolibrary.org/obo/FOODON_03412806,Irvingia gabonensis (Aubry-Lecomte ex O'Rorke) Baill.,03412806
+http://purl.obolibrary.org/obo/FOODON_03412807,Landolphia heudelotii A. DC.,03412807
+http://purl.obolibrary.org/obo/FOODON_03412809,Landolphia owariensis P. Beauv.,03412809
+http://purl.obolibrary.org/obo/FOODON_03412811,Mimusops zeyheri Sond.,03412811
+http://purl.obolibrary.org/obo/FOODON_03414649,Mimusops zeyheri Sond.,03414649
+http://purl.obolibrary.org/obo/FOODON_03412816,Zanha africana (Radlk.) Exell,03412816
+http://purl.obolibrary.org/obo/FOODON_03412818,Diospyros mespiliformis Hochst. ex A. DC.,03412818
+http://purl.obolibrary.org/obo/FOODON_03412819,Rubus pinnatus Willd.,03412819
+http://purl.obolibrary.org/obo/FOODON_03412820,Trichoscypha Hook. f.,03412820
+http://purl.obolibrary.org/obo/FOODON_03412822,Sclerocarya sp.,03412822
+http://purl.obolibrary.org/obo/FOODON_03412823,Ficus platyphylla Delile,03412823
+http://purl.obolibrary.org/obo/FOODON_03412825,Lannea edulis (Sond.) Engl.,03412825
+http://purl.obolibrary.org/obo/FOODON_03412827,Parinari curatellifolia Planch. ex Benth.,03412827
+http://purl.obolibrary.org/obo/FOODON_03412828,Parinari excelsa Sabine,03412828
+http://purl.obolibrary.org/obo/FOODON_03412829,Neocarya macrophylla (Sabine) Prance,03412829
+http://purl.obolibrary.org/obo/FOODON_03412830,Syzygium guineense (Willd.) DC.,03412830
+http://purl.obolibrary.org/obo/FOODON_03412832,Ximenia caffra Sond.,03412832
+http://purl.obolibrary.org/obo/FOODON_03412836,Lepisanthes senegalensis (Juss. ex Poir.) Leenh.,03412836
+http://purl.obolibrary.org/obo/FOODON_03412837,Balanites aegyptiaca (L.) Del.,03412837
+http://purl.obolibrary.org/obo/FOODON_03412837,Balanites aegyptiaca (L.) Delile,03412837
+http://purl.obolibrary.org/obo/FOODON_03412837,Balanites aegyptiacus (L.) Delile,03412837
+http://purl.obolibrary.org/obo/FOODON_03412841,Cordyla africana Lour.,03412841
+http://purl.obolibrary.org/obo/FOODON_03412862,Cyttus novaezealandiae,03412862
+http://purl.obolibrary.org/obo/FOODON_03412862,"Cyttus novaezealandiae (Arthur, 1885)",03412862
+http://purl.obolibrary.org/obo/FOODON_03412876,Ostrea denselamellosa Lischke 1869,03412876
+http://purl.obolibrary.org/obo/FOODON_03412879,Ensis macha (Molina 1782),03412879
+http://purl.obolibrary.org/obo/FOODON_03412881,Atrina pectinata,03412881
+http://purl.obolibrary.org/obo/FOODON_03412881,Atrina pectinata (Linnaeus 1767),03412881
+http://purl.obolibrary.org/obo/FOODON_03412883,"Beryx Cuvier, 1829",03412883
+http://purl.obolibrary.org/obo/FOODON_03412893,Scorpaena papillosa,03412893
+http://purl.obolibrary.org/obo/FOODON_03412893,"Scorpaena papillosa (Schneider and Forster in Bloch and Schneider, 1801)",03412893
+http://purl.obolibrary.org/obo/FOODON_03412898,Lepidorhynchus denticulatus,03412898
+http://purl.obolibrary.org/obo/FOODON_03412898,"Lepidorhynchus denticulatus Richardson, 1846",03412898
+http://purl.obolibrary.org/obo/FOODON_03412911,"Hyporhamphus ihi Phillipps, 1932",03412911
+http://purl.obolibrary.org/obo/FOODON_03412913,"Trachyrincus longirostris (Günther, 1878)",03412913
+http://purl.obolibrary.org/obo/FOODON_03412915,Neophrynichthys angustus Nelson 1977,03412915
+http://purl.obolibrary.org/obo/FOODON_03412920,Vitex doniana Sweet,03412920
+http://purl.obolibrary.org/obo/FOODON_03412931,Bobgunnia fistuloides (Harms) J. H. Kirkbr. & Wiersema,03412931
+http://purl.obolibrary.org/obo/FOODON_03412933,Vitex sp.,03412933
+http://purl.obolibrary.org/obo/FOODON_03412937,"Agaricus bisporus (J.E. Lange) Imbach, 1946",03412937
+http://purl.obolibrary.org/obo/FOODON_03412937,Agaricus bisporus (Lange) Imbach,03412937
+http://purl.obolibrary.org/obo/FOODON_03412937,Agaricus bisporus (Lange) Imbach forma albidus (Lange) Singer,03412937
+http://purl.obolibrary.org/obo/FOODON_03412940,Beta vulgaris L. var. vulgaris,03412940
+http://purl.obolibrary.org/obo/FOODON_03412940,Beta vulgaris ssp. vulgaris L.,03412940
+http://purl.obolibrary.org/obo/FOODON_03412947,Curcuma zedoaria (Bergius) Rosc.,03412947
+http://purl.obolibrary.org/obo/FOODON_03412948,Fragaria vesca L.,03412948
+http://purl.obolibrary.org/obo/FOODON_03412950,Hyssopus officinalis L.,03412950
+http://purl.obolibrary.org/obo/FOODON_03412953,Aloysia citrodora Palau,03412953
+http://purl.obolibrary.org/obo/FOODON_03412956,Piper longum L.,03412956
+http://purl.obolibrary.org/obo/FOODON_03412957,Prunus avium (L.) L. subsp. duracina (L.) D.Rivera & al.,03412957
+http://purl.obolibrary.org/obo/FOODON_03412959,Raphanus sativus L. var. niger (Mill.) Kerner,03412959
+http://purl.obolibrary.org/obo/FOODON_03412960,Raphanus sativus L. var. sativus,03412960
+http://purl.obolibrary.org/obo/FOODON_03412965,Stachys affinis Bunge,03412965
+http://purl.obolibrary.org/obo/FOODON_03412968,Tropaeolum majus L.,03412968
+http://purl.obolibrary.org/obo/FOODON_03412969,Vaccinium oxycoccos L.,03412969
+http://purl.obolibrary.org/obo/FOODON_03413333,Foeniculum vulgare var. azoricum (Mill.) Thell.,03413333
+http://purl.obolibrary.org/obo/FOODON_03413335,Fragaria viridis Duchesne,03413335
+http://purl.obolibrary.org/obo/FOODON_03413335,Fragaria viridis Weston,03413335
+http://purl.obolibrary.org/obo/FOODON_03413337,Fragaria moschata Duchesne,03413337
+http://purl.obolibrary.org/obo/FOODON_03413337,Fragaria moschata Weston,03413337
+http://purl.obolibrary.org/obo/FOODON_03413339,Fragaria vesca f. semperflorens (Duchesne) Staudt,03413339
+http://purl.obolibrary.org/obo/FOODON_03413347,Malus sylvestris (L.) Mill.,03413347
+http://purl.obolibrary.org/obo/FOODON_03413347,Malus sylvestris Mill.,03413347
+http://purl.obolibrary.org/obo/FOODON_03413347,Malus sylvestris P. Mill.,03413347
+http://purl.obolibrary.org/obo/FOODON_03413349,Nephelium mutabile Blume,03413349
+http://purl.obolibrary.org/obo/FOODON_03413349,Nephelium ramboutan-ake (Labill.) Leenh.,03413349
+http://purl.obolibrary.org/obo/FOODON_03413363,bottlenose dolphin,03413363
+http://purl.obolibrary.org/obo/FOODON_03413363,humpback dolphin,03413363
+http://purl.obolibrary.org/obo/FOODON_03413363,spinner dolphin,03413363
+http://purl.obolibrary.org/obo/FOODON_03413367,"Bos taurus Linnaeus, 1758",03413367
+http://purl.obolibrary.org/obo/FOODON_03413367,"Bos taurus indicus Linnaeus, 1758",03413367
+http://purl.obolibrary.org/obo/FOODON_03413372,Brassica,03413372
+http://purl.obolibrary.org/obo/FOODON_03413372,Brassica L.,03413372
+http://purl.obolibrary.org/obo/FOODON_03413372,Brassica sp.,03413372
+http://purl.obolibrary.org/obo/FOODON_03413372,Brassica spp.,03413372
+http://purl.obolibrary.org/obo/FOODON_03413374,"Brassica campestris L., var. parachinensis (Bailey) Sinsk.",03413374
+http://purl.obolibrary.org/obo/FOODON_03413374,Brassica parachinensis L. H. Bailey,03413374
+http://purl.obolibrary.org/obo/FOODON_03413374,Brassica parachinensis L.H. Bailey,03413374
+http://purl.obolibrary.org/obo/FOODON_03413374,Brassica rapa var. parachinensis (L. H. Bailey) Hanelt,03413374
+http://purl.obolibrary.org/obo/FOODON_03414514,Brassica rapa var. parachinensis (L. H. Bailey) Hanelt,03414514
+http://purl.obolibrary.org/obo/FOODON_03413379,Pueraria lobata (Willd.) Ohwi; P. thunbergiana (Sieb. & Zucc.) Benth. ; P. phaseoloides (Roxb.) Benth.,03413379
+http://purl.obolibrary.org/obo/FOODON_03413380,Lespedeza cuneata (Dum. Cours.) G. Don ; L. sericea Miq.,03413380
+http://purl.obolibrary.org/obo/FOODON_03413381,Onobrychis viciifolia Scop.; O. sativa Lamk.,03413381
+http://purl.obolibrary.org/obo/FOODON_03413382,"Lotus corniculatus, L.; other Lotus spp.",03413382
+http://purl.obolibrary.org/obo/FOODON_03413383,Cynodon dactylon (L.) Pers.,03413383
+http://purl.obolibrary.org/obo/FOODON_03413384,Poa spp.,03413384
+http://purl.obolibrary.org/obo/FOODON_03413385,Bromus spp.,03413385
+http://purl.obolibrary.org/obo/FOODON_03413386,Lolium spp.,03413386
+http://purl.obolibrary.org/obo/FOODON_03413394,Annona diversifolia Saff.,03413394
+http://purl.obolibrary.org/obo/FOODON_03413396,Dioscorea L.,03413396
+http://purl.obolibrary.org/obo/FOODON_03413403,Mucuna deeringiana (Bort.) Merr.; Stizolobium deeringianum Bort.; other Stizolobium spp.,03413403
+http://purl.obolibrary.org/obo/FOODON_03413406,Zea mays L. ssp. parviglumis Iltis & Doebley,03413406
+http://purl.obolibrary.org/obo/FOODON_03413406,Zea mays L. ssp. parviglumis Iltis & Doebley var. huehuetenangensis Iltis & Doebley,03413406
+http://purl.obolibrary.org/obo/FOODON_03413406,Zea mays ssp. mexicana (Schrader) Iltis; Zea mexicana (Schrader) Kunze; Euchlaena mexicana Schrader.,03413406
+http://purl.obolibrary.org/obo/FOODON_03413406,Zea mays ssp. parviglumis Iltis & Doebley,03413406
+http://purl.obolibrary.org/obo/FOODON_03413406,Zea mays subsp. huehuetenangensis (H. H. Iltis & Doebley) Doebley,03413406
+http://purl.obolibrary.org/obo/FOODON_03413406,Zea mays subsp. mexicana (Schrad.) H. H. Iltis,03413406
+http://purl.obolibrary.org/obo/FOODON_03413406,Zea mays subsp. parviglumis H. H. Iltis & Doebley,03413406
+http://purl.obolibrary.org/obo/FOODON_03413406,Zea mays var. huehuetenangensis Iltis & Doebley,03413406
+http://purl.obolibrary.org/obo/FOODON_03413407,Cucumis sativus L.; pickling cucumber cultivars,03413407
+http://purl.obolibrary.org/obo/FOODON_03413413,"MaMalva verticillata L.; syn: M. crispa L.; M. mohileviensis Graebn., M. pamiroalaica Ilj. and M. sylvestris L.",03413413
+http://purl.obolibrary.org/obo/FOODON_03413413,Malva,03413413
+http://purl.obolibrary.org/obo/FOODON_03413413,Malva L.,03413413
+http://purl.obolibrary.org/obo/FOODON_03413413,Malva spp.,03413413
+http://purl.obolibrary.org/obo/FOODON_03413413,Malva verticillata L.,03413413
+http://purl.obolibrary.org/obo/FOODON_03413416,Ceiba pentandra (L.) Gaertn.,03413416
+http://purl.obolibrary.org/obo/FOODON_03413419,Macrostyloma geocarpum (Harms) Marcechal & Baudet; Kerstingiella geocarpa Harms.; Voandzeia poissoinii Chev.,03413419
+http://purl.obolibrary.org/obo/FOODON_03413421,Great burnet (Sanguisorba officinalis L.; Poterium officinala A. Gray) ; Salad burnet (Sanguisorba minor Scop.; syn: Poterium sanguisorba L.),03413421
+http://purl.obolibrary.org/obo/FOODON_03413421,Sanguisorba,03413421
+http://purl.obolibrary.org/obo/FOODON_03413421,Sanguisorba L.,03413421
+http://purl.obolibrary.org/obo/FOODON_03413421,Sanguisorba spp.,03413421
+http://purl.obolibrary.org/obo/FOODON_03413422,Dictamnus albus L. ; D. fraxinella Pers.,03413422
+http://purl.obolibrary.org/obo/FOODON_03413423,Acorus calamus L.,03413423
+http://purl.obolibrary.org/obo/FOODON_03413424,Murraya koenigii (L.) Spreng.,03413424
+http://purl.obolibrary.org/obo/FOODON_03413425,Inula helenium L.,03413425
+http://purl.obolibrary.org/obo/FOODON_03413426,Marrubium vulgare L.,03413426
+http://purl.obolibrary.org/obo/FOODON_03413427,Lavandula angustifolia Mill..; L. officinalis Chaix; L. spica L.; L. vera DC.,03413427
+http://purl.obolibrary.org/obo/FOODON_03413429,Ruta graveolens L.,03413429
+http://purl.obolibrary.org/obo/FOODON_03413430,Myrrhis odorata (L.) Scop.,03413430
+http://purl.obolibrary.org/obo/FOODON_03413431,Tanacetum balsamita L.; Chrysanthemum balsamita L.,03413431
+http://purl.obolibrary.org/obo/FOODON_03413432,Asperula odorata L.,03413432
+http://purl.obolibrary.org/obo/FOODON_03413433,Artemisia,03413433
+http://purl.obolibrary.org/obo/FOODON_03413433,Artemisia L.,03413433
+http://purl.obolibrary.org/obo/FOODON_03413433,Artemisia absinthium L.; A. abrotanum L.; A. vulgaris L.,03413433
+http://purl.obolibrary.org/obo/FOODON_03413433,Artemisia spp.,03413433
+http://purl.obolibrary.org/obo/FOODON_03413435,Hybrids of Grapefruit x Tangelo,03413435
+http://purl.obolibrary.org/obo/FOODON_03413436,Lecythis zabucajo Aubl.; L. elliptica Kunth; L. ollaria L.; L. usitatis Miers,03413436
+http://purl.obolibrary.org/obo/FOODON_03413438,Alocasia macrorrhiza (L.) Schott,03413438
+http://purl.obolibrary.org/obo/FOODON_03413439,Arracacia xanthorrhiza Bancr.; A. esculenta DC.,03413439
+http://purl.obolibrary.org/obo/FOODON_03413441,Canna edulis Ker.,03413441
+http://purl.obolibrary.org/obo/FOODON_03413443,Oxalis tuberosa Mol.,03413443
+http://purl.obolibrary.org/obo/FOODON_03413444,Campanula rapunculus L.,03413444
+http://purl.obolibrary.org/obo/FOODON_03413445,Sium sisarum L.,03413445
+http://purl.obolibrary.org/obo/FOODON_03413446,Calathea allouia (Aubl.) Lindl.,03413446
+http://purl.obolibrary.org/obo/FOODON_03413447,Ullucus tuberosus Caldas,03413447
+http://purl.obolibrary.org/obo/FOODON_03413454,"Astacus leptodactylus Eschscholtz, 1823",03413454
+http://purl.obolibrary.org/obo/FOODON_03413454,"Astacus leptodactylus Eschscholz, 1823",03413454
+http://purl.obolibrary.org/obo/FOODON_03413455,Aronia melanocarpa (Michx.) Elliott,03413455
+http://purl.obolibrary.org/obo/FOODON_03413463,"Pelophylax lessonae (Camerano, 1882)",03413463
+http://purl.obolibrary.org/obo/FOODON_03413463,"Pelophylax ridibundus (Pallas, 1771)",03413463
+http://purl.obolibrary.org/obo/FOODON_03413463,Rana esculenta Linnaeus 1758,03413463
+http://purl.obolibrary.org/obo/FOODON_03413463,"Rana esculenta Linnaeus, 1758",03413463
+http://purl.obolibrary.org/obo/FOODON_03413471,Digitaria iburua Stapf,03413471
+http://purl.obolibrary.org/obo/FOODON_03413477,Scardinius erythrophthalmus,03413477
+http://purl.obolibrary.org/obo/FOODON_03413479,Verbena,03413479
+http://purl.obolibrary.org/obo/FOODON_03413479,Verbena L.,03413479
+http://purl.obolibrary.org/obo/FOODON_03413479,Verbena sp.,03413479
+http://purl.obolibrary.org/obo/FOODON_03413485,Munida gregaria,03413485
+http://purl.obolibrary.org/obo/FOODON_03413485,Munida gregaria (Fabricius 1793),03413485
+http://purl.obolibrary.org/obo/FOODON_03413487,Allium ×proliferum (Moench) Schrad. ex Willd.,03413487
+http://purl.obolibrary.org/obo/FOODON_03413492,"Metapenaeus endeavouri (Schmitt, 1926)",03413492
+http://purl.obolibrary.org/obo/FOODON_03413492,"Metapenaeus endeavouri Schmitt, 1926",03413492
+http://purl.obolibrary.org/obo/FOODON_03413499,Osmerus mordax,03413499
+http://purl.obolibrary.org/obo/FOODON_03413499,"Osmerus mordax (Mitchill, 1814)",03413499
+http://purl.obolibrary.org/obo/FOODON_03413499,"Osmerus mordax Mitchill, 1814",03413499
+http://purl.obolibrary.org/obo/FOODON_03413499,Osmerus mordax Steindachner & Kner 1870,03413499
+http://purl.obolibrary.org/obo/FOODON_03413499,Osmerus mordax dentex,03413499
+http://purl.obolibrary.org/obo/FOODON_03413899,Osmerus mordax dentex,03413899
+http://purl.obolibrary.org/obo/FOODON_03413499,"Osmerus mordax dentex Steindachner, 1870",03413499
+http://purl.obolibrary.org/obo/FOODON_03413899,"Osmerus mordax dentex Steindachner, 1870",03413899
+http://purl.obolibrary.org/obo/FOODON_03413507,Triticum aestivum L.,03413507
+http://purl.obolibrary.org/obo/FOODON_03413507,Triticum aestivum subsp. aestivum,03413507
+http://purl.obolibrary.org/obo/FOODON_03413532,Haliotis gigantea,03413532
+http://purl.obolibrary.org/obo/FOODON_03413532,"Haliotis gigantea Gmelin, 1791",03413532
+http://purl.obolibrary.org/obo/FOODON_03413533,Haliotis midae (Linnaeus 1758),03413533
+http://purl.obolibrary.org/obo/FOODON_03413534,"Haliotis ruber Leach, 1814",03413534
+http://purl.obolibrary.org/obo/FOODON_03413534,Haliotis rubra,03413534
+http://purl.obolibrary.org/obo/FOODON_03413534,Haliotis rubra Leach 1814,03413534
+http://purl.obolibrary.org/obo/FOODON_03413542,Haliotis assimilis,03413542
+http://purl.obolibrary.org/obo/FOODON_03413542,"Haliotis assimilis Dall, 1878",03413542
+http://purl.obolibrary.org/obo/FOODON_03413543,Haliotis australis,03413543
+http://purl.obolibrary.org/obo/FOODON_03413548,Arca noae,03413548
+http://purl.obolibrary.org/obo/FOODON_03413548,"Arca noae Linnaeus, 1758",03413548
+http://purl.obolibrary.org/obo/FOODON_03413550,Anadara subcrenata,03413550
+http://purl.obolibrary.org/obo/FOODON_03413551,Anadara baughmani,03413551
+http://purl.obolibrary.org/obo/FOODON_03413551,"Anadara baughmani Hertlein, 1951",03413551
+http://purl.obolibrary.org/obo/FOODON_03413558,"Menippe rumphii (Fabricius, 1798)",03413558
+http://purl.obolibrary.org/obo/FOODON_03413559,"Menippe frontalis A. Milne Edwards, 1879",03413559
+http://purl.obolibrary.org/obo/FOODON_03413564,Cancer bellianus Johnston 1861,03413564
+http://purl.obolibrary.org/obo/FOODON_03413565,"Cancer johngarthi Carvacho, 1989",03413565
+http://purl.obolibrary.org/obo/FOODON_03413567,"Cryptodromiopsis plumosa (Lewinsohn, 1984)",03413567
+http://purl.obolibrary.org/obo/FOODON_03413569,Lithodes antarcticus Jacquinot 1853,03413569
+http://purl.obolibrary.org/obo/FOODON_03413569,"Lithodes santolla Molina, 1782",03413569
+http://purl.obolibrary.org/obo/FOODON_03413574,"Procambarus bivitattus Hobbs, 1942",03413574
+http://purl.obolibrary.org/obo/FOODON_03413575,"Austropotamobius torrentium (Schrank, 1803)",03413575
+http://purl.obolibrary.org/obo/FOODON_03413575,"Austropotamobius torrentium Schrank, 1803",03413575
+http://purl.obolibrary.org/obo/FOODON_03413576,"Austropotamobius pallipes (Lereboullet, 1858)",03413576
+http://purl.obolibrary.org/obo/FOODON_03413581,"Euphausia triacantha Holt & Tattersall, 1906",03413581
+http://purl.obolibrary.org/obo/FOODON_03413581,"Euphausia triacantha Holt and Tattersall, 1906",03413581
+http://purl.obolibrary.org/obo/FOODON_03413586,"Ibacus alticrenatus Bate, 1888",03413586
+http://purl.obolibrary.org/obo/FOODON_03413586,"Ibacus altricrenatus Bate, 1888",03413586
+http://purl.obolibrary.org/obo/FOODON_03413609,Jasus novaehollandiae Holthuis 1963,03413609
+http://purl.obolibrary.org/obo/FOODON_03413619,"Haliporoides triarthrus Stebbing, 1914",03413619
+http://purl.obolibrary.org/obo/FOODON_03413619,"Hymenopenaeus triarthrus (Stebbing, 1914)",03413619
+http://purl.obolibrary.org/obo/FOODON_03413623,"Parapenaeopsis atlantica Balss, 1914",03413623
+http://purl.obolibrary.org/obo/FOODON_03413631,Xiphopenaeus riveti Bouvier 1907,03413631
+http://purl.obolibrary.org/obo/FOODON_03413639,Chione undatella,03413639
+http://purl.obolibrary.org/obo/FOODON_03413639,"Chione undatella (G. B. Sowerby I, 1835)",03413639
+http://purl.obolibrary.org/obo/FOODON_03413639,"Chione undatella (Sowerby, 1835)",03413639
+http://purl.obolibrary.org/obo/FOODON_03413642,Chione californiensis,03413642
+http://purl.obolibrary.org/obo/FOODON_03413642,"Chione californiensis (Broderip, 1835)",03413642
+http://purl.obolibrary.org/obo/FOODON_03413643,Austrovenus stutchburyi,03413643
+http://purl.obolibrary.org/obo/FOODON_03413643,Chione stutchburyi (Wood 1828),03413643
+http://purl.obolibrary.org/obo/FOODON_03413644,Glycymeris pilosa,03413644
+http://purl.obolibrary.org/obo/FOODON_03413644,Glycymeris pilosa (Linnaeus 1767),03413644
+http://purl.obolibrary.org/obo/FOODON_03413646,Glycymeris violacescens,03413646
+http://purl.obolibrary.org/obo/FOODON_03413648,Acanthocardia spinosa (Solander 1786),03413648
+http://purl.obolibrary.org/obo/FOODON_03413648,Cardium tuberculatum,03413648
+http://purl.obolibrary.org/obo/FOODON_03413653,"Mytilus chilensis (Hupé, 1854)",03413653
+http://purl.obolibrary.org/obo/FOODON_03413653,"Mytilus chilensis Hupe, 1854",03413653
+http://purl.obolibrary.org/obo/FOODON_03413654,Mytilus crassitesta,03413654
+http://purl.obolibrary.org/obo/FOODON_03413656,Mytilus planulatus,03413656
+http://purl.obolibrary.org/obo/FOODON_03413656,"Mytilus planulatus Lamarck, 1819",03413656
+http://purl.obolibrary.org/obo/FOODON_03413657,"Mytilus platensis Orbigny, 1846",03413657
+http://purl.obolibrary.org/obo/FOODON_03413657,Mytilus platensis dOrbigny 1846,03413657
+http://purl.obolibrary.org/obo/FOODON_03413658,Mytilus smaragdinus,03413658
+http://purl.obolibrary.org/obo/FOODON_03413660,Mytilus desolationis Lamy 1936,03413660
+http://purl.obolibrary.org/obo/FOODON_03413666,Pleuroploca gigantea,03413666
+http://purl.obolibrary.org/obo/FOODON_03413666,"Pleuroploca gigantea (Kiener, 1840)",03413666
+http://purl.obolibrary.org/obo/FOODON_03413669,Lambis lambis,03413669
+http://purl.obolibrary.org/obo/FOODON_03413669,"Lambis lambis (Linnaeus, 1758)",03413669
+http://purl.obolibrary.org/obo/FOODON_03413671,Ostrea chilensis Philippi 1845,03413671
+http://purl.obolibrary.org/obo/FOODON_03413671,"Ostrea chilensis Philippi, 1847",03413671
+http://purl.obolibrary.org/obo/FOODON_03413675,Ostrea denticulata Born 1778,03413675
+http://purl.obolibrary.org/obo/FOODON_03413675,"Ostrea denticulata Born, 1778",03413675
+http://purl.obolibrary.org/obo/FOODON_03413676,Crassostrea gigas kumamoto,03413676
+http://purl.obolibrary.org/obo/FOODON_03413691,"Loligo reynaudi Orbigny, 1845",03413691
+http://purl.obolibrary.org/obo/FOODON_03413691,Loligo reynaudi dOrbigny 1845,03413691
+http://purl.obolibrary.org/obo/FOODON_03413707,Petroselinum crispum (Mill.) Nym.,03413707
+http://purl.obolibrary.org/obo/FOODON_03413707,Petroselinum crispum (Mill.) Nyman ex A. W. Hill var. crispum,03413707
+http://purl.obolibrary.org/obo/FOODON_03413712,Plantago,03413712
+http://purl.obolibrary.org/obo/FOODON_03413712,Plantago L.,03413712
+http://purl.obolibrary.org/obo/FOODON_03413712,Plantago sp.,03413712
+http://purl.obolibrary.org/obo/FOODON_03413723,"Auricularia polytricha (Mont.) Sacc., 1885",03413723
+http://purl.obolibrary.org/obo/FOODON_03413725,Chamerion angustifolium (L.) Holub,03413725
+http://purl.obolibrary.org/obo/FOODON_03413725,Chamerion angustifolium (L.) Holub ssp. angustifolium,03413725
+http://purl.obolibrary.org/obo/FOODON_03413725,Epilobium angustifolium ssp. angustifolium L.,03413725
+http://purl.obolibrary.org/obo/FOODON_03413726,"Grifola frondosa (Dicks.) Gray, 1821",03413726
+http://purl.obolibrary.org/obo/FOODON_03413727,Brassica rapa subsp. oleifera (DC.) Metzg.,03413727
+http://purl.obolibrary.org/obo/FOODON_03413730,Bambusa oldhamii Munro,03413730
+http://purl.obolibrary.org/obo/FOODON_03413733,Gigantochloa albociliata (Munro) Kurz,03413733
+http://purl.obolibrary.org/obo/FOODON_03413734,Gigantochloa levis (Blanco) Merr.,03413734
+http://purl.obolibrary.org/obo/FOODON_03413734,Gigantochloa levis (Blanco) Merrill,03413734
+http://purl.obolibrary.org/obo/FOODON_03413736,Thyrsostachys siamensis Gamble,03413736
+http://purl.obolibrary.org/obo/FOODON_03413740,Solanum tuberosum L. subsp. andigenum (Juz. & Bukasov) Hawkes,03413740
+http://purl.obolibrary.org/obo/FOODON_03413740,Solanum tuberosum subsp. andigena (Juz. & Buk.) Hawkes,03413740
+http://purl.obolibrary.org/obo/FOODON_03413743,"Pleurotus eryngii (DC.) Quél., 1872",03413743
+http://purl.obolibrary.org/obo/FOODON_03413744,Hypsizygus tessulatus (Bull.) Singer,03413744
+http://purl.obolibrary.org/obo/FOODON_03414533,Hypsizygus tessulatus (Bull.) Singer,03414533
+http://purl.obolibrary.org/obo/FOODON_03413790,Palmaria,03413790
+http://purl.obolibrary.org/obo/FOODON_03413792,"Tuber magnatum Picco, 1788",03413792
+http://purl.obolibrary.org/obo/FOODON_03413793,"Tuber melanosporum Vittad., 1831",03413793
+http://purl.obolibrary.org/obo/FOODON_03413794,Tuber sinense X.L. Mao 2000,03413794
+http://purl.obolibrary.org/obo/FOODON_03413795,"Tuber aestivum Vittad., 1831",03413795
+http://purl.obolibrary.org/obo/FOODON_03413796,"Pleurotus ostreatus (Jacq.) P. Kumm., 1871",03413796
+http://purl.obolibrary.org/obo/FOODON_03413807,Salmoninae,03413807
+http://purl.obolibrary.org/obo/FOODON_03413808,Esociformes,03413808
+http://purl.obolibrary.org/obo/FOODON_03413809,Osmeriformes,03413809
+http://purl.obolibrary.org/obo/FOODON_03413836,Engraulis capensis Gilchrist 1913,03413836
+http://purl.obolibrary.org/obo/FOODON_03413836,"Engraulis capensis Gilchrist, 1913",03413836
+http://purl.obolibrary.org/obo/FOODON_03413841,"Clupea harengus membras Linnaeus, 1761",03413841
+http://purl.obolibrary.org/obo/FOODON_03413842,Dorosomatinae,03413842
+http://purl.obolibrary.org/obo/FOODON_03413845,"Sprattus sprattus balticus (Schneider, 1908)",03413845
+http://purl.obolibrary.org/obo/FOODON_03413846,"Etrumeus Bleeker, 1853",03413846
+http://purl.obolibrary.org/obo/FOODON_03413846,Etrumeus spp.,03413846
+http://purl.obolibrary.org/obo/FOODON_03413849,"Etrumeus acuminatus Gilbert, 1891",03413849
+http://purl.obolibrary.org/obo/FOODON_03413850,"Etrumeus sadina (Mitchill, 1814)",03413850
+http://purl.obolibrary.org/obo/FOODON_03413856,"Harengula Valenciennes in Cuvier and Valenciennes, 1847",03413856
+http://purl.obolibrary.org/obo/FOODON_03413856,Harengula spp.,03413856
+http://purl.obolibrary.org/obo/FOODON_03413862,"Nematalosa galatheae Nelson & Rothman, 1973",03413862
+http://purl.obolibrary.org/obo/FOODON_03413862,"Nematalosa galatheae Nelson and Rothman, 1973",03413862
+http://purl.obolibrary.org/obo/FOODON_03413864,"Alosa fallax (Lacepède, 1803)",03413864
+http://purl.obolibrary.org/obo/FOODON_03413864,"Alosa fallax Lacépède, 1803",03413864
+http://purl.obolibrary.org/obo/FOODON_03413865,"Alosa fallax nilotica (Lacépède, 1803)",03413865
+http://purl.obolibrary.org/obo/FOODON_03413867,"Alosa pontica (Eichwald, 1838)",03413867
+http://purl.obolibrary.org/obo/FOODON_03413868,"Phoxinus percnurus (Pallas, 1811)",03413868
+http://purl.obolibrary.org/obo/FOODON_03413872,Esox americanus vermiculatus,03413872
+http://purl.obolibrary.org/obo/FOODON_03413872,Esox americanus vermiculatus Lesueur,03413872
+http://purl.obolibrary.org/obo/FOODON_03413872,"Esox americanus vermiculatus Lesueur, 1846",03413872
+http://purl.obolibrary.org/obo/FOODON_03413876,"Pollachius Nilsson, 1832",03413876
+http://purl.obolibrary.org/obo/FOODON_03413878,"Merluccius Rafinesque, 1810",03413878
+http://purl.obolibrary.org/obo/FOODON_03413880,"Micromesistius Gill, 1863",03413880
+http://purl.obolibrary.org/obo/FOODON_03413881,"Merlangius merlangus euxinus (Nordmann, 1830)",03413881
+http://purl.obolibrary.org/obo/FOODON_03413882,"Ophidion barbatum Linnaeus, 1758",03413882
+http://purl.obolibrary.org/obo/FOODON_03413883,"Ophidion Linnaeus, 1758",03413883
+http://purl.obolibrary.org/obo/FOODON_03413886,"Macruronus Günther, 1873",03413886
+http://purl.obolibrary.org/obo/FOODON_03413904,"Cynoscion macdonaldi (Gilbert, 1890)",03413904
+http://purl.obolibrary.org/obo/FOODON_03413909,"Micropogonias Bonaparte, 1831",03413909
+http://purl.obolibrary.org/obo/FOODON_03413911,"Paralonchurus goodei Gilbert in Jordan and Evermann, 1898",03413911
+http://purl.obolibrary.org/obo/FOODON_03413913,"Larimichthys Jordan and Starks, 1905",03413913
+http://purl.obolibrary.org/obo/FOODON_03413915,"Larimichthys pamoides (Munro, 1964)",03413915
+http://purl.obolibrary.org/obo/FOODON_03413920,"Upeneus asymmetricus Lachner, 1954",03413920
+http://purl.obolibrary.org/obo/FOODON_03413921,Parupeneus bifasciatus (Lacepède 1801),03413921
+http://purl.obolibrary.org/obo/FOODON_03413934,"Neogobius Iljin, 1927",03413934
+http://purl.obolibrary.org/obo/FOODON_03413937,"Proterorhinus Smitt, 1900",03413937
+http://purl.obolibrary.org/obo/FOODON_03413939,"Zosterisessor Whitley, 1935",03413939
+http://purl.obolibrary.org/obo/FOODON_03413952,"Trachurus trachurus capensis (Castelnau, 1861)",03413952
+http://purl.obolibrary.org/obo/FOODON_03413966,Oligoplites refulgens Gilbert & Starks 1904,03413966
+http://purl.obolibrary.org/obo/FOODON_03413966,"Oligoplites refulgens Gilbert and Starks, 1904",03413966
+http://purl.obolibrary.org/obo/FOODON_03413969,"Parastromateus Bleeker, 1865",03413969
+http://purl.obolibrary.org/obo/FOODON_03413974,"Rastrelliger Jordan and Starks in Jordan and Dickerson, 1908",03413974
+http://purl.obolibrary.org/obo/FOODON_03413974,Rastrelliger spp.,03413974
+http://purl.obolibrary.org/obo/FOODON_03413980,"Scomberomorus lineolatus (Cuvier, 1829)",03413980
+http://purl.obolibrary.org/obo/FOODON_03413980,"Scomberomorus lineolatus (Cuvier, 1831)",03413980
+http://purl.obolibrary.org/obo/FOODON_03413981,Scomberomorus multiradiatus Munro 1964,03413981
+http://purl.obolibrary.org/obo/FOODON_03413981,"Scomberomorus multiradiatus Munro, 1964",03413981
+http://purl.obolibrary.org/obo/FOODON_03414002,"Dentex congoensis Poll, 1954",03414002
+http://purl.obolibrary.org/obo/FOODON_03414011,"Gymnammodytes cicerellus (Rafinesque, 1810)",03414011
+http://purl.obolibrary.org/obo/FOODON_03414015,"Cephalopholis Bloch and Schneider, 1801",03414015
+http://purl.obolibrary.org/obo/FOODON_03414024,"Paralabrax Girard, 1856",03414024
+http://purl.obolibrary.org/obo/FOODON_03414025,"Acanthistius Gill, 1862",03414025
+http://purl.obolibrary.org/obo/FOODON_03414035,Polydactylus quadrifilis,03414035
+http://purl.obolibrary.org/obo/FOODON_03414035,"Polydactylus quadrifilis (Cuvier in Cuvier and Valenciennes, 1829)",03414035
+http://purl.obolibrary.org/obo/FOODON_03414035,"Polydactylus quadrifilis (Cuvier, 1829)",03414035
+http://purl.obolibrary.org/obo/FOODON_03414035,"Polynemus quadrifilis (Cuvier and Valenciennes, 1829)",03414035
+http://purl.obolibrary.org/obo/FOODON_03414048,"Hucho perryi (Brevoort, 1856)",03414048
+http://purl.obolibrary.org/obo/FOODON_03414050,"Hucho ishikawae Mori, 1928",03414050
+http://purl.obolibrary.org/obo/FOODON_03414051,"Salvelinus Richardson, 1836",03414051
+http://purl.obolibrary.org/obo/FOODON_03414052,Coregonus altior,03414052
+http://purl.obolibrary.org/obo/FOODON_03414052,Coregonus pollan Thompson 1835,03414052
+http://purl.obolibrary.org/obo/FOODON_03414052,"Coregonus pollan Thompson, 1835",03414052
+http://purl.obolibrary.org/obo/FOODON_03414053,Coregonus hiemalis,03414053
+http://purl.obolibrary.org/obo/FOODON_03414053,"Coregonus hiemalis Jurine, 1825",03414053
+http://purl.obolibrary.org/obo/FOODON_03414059,"Oncorhynchus apache (Miller, 1972)",03414059
+http://purl.obolibrary.org/obo/FOODON_03414059,"Oncorhynchus gilae apache (Miller, 1972)",03414059
+http://purl.obolibrary.org/obo/FOODON_03414060,Oncorhynchus aguabonita (Jordan 1892),03414060
+http://purl.obolibrary.org/obo/FOODON_03414060,Oncorhynchus mykiss aguabonita,03414060
+http://purl.obolibrary.org/obo/FOODON_03414060,"Oncorhynchus mykiss aguabonita (Jordan, 1892)",03414060
+http://purl.obolibrary.org/obo/FOODON_03414063,Oncorhynchus rhodurus Jordan & McGregor 1925,03414063
+http://purl.obolibrary.org/obo/FOODON_03414063,"Oncorhynchus rhodurus Jordan and McGregor in Jordan and Hubbs, 1925",03414063
+http://purl.obolibrary.org/obo/FOODON_03414064,"Salmo trutta fario Linnaeus, 1758",03414064
+http://purl.obolibrary.org/obo/FOODON_03414065,"Salmo trutta lacustris Linnaeus, 1758",03414065
+http://purl.obolibrary.org/obo/FOODON_03414126,"Rhinobatos albomaculatus (Norman, 1930)",03414126
+http://purl.obolibrary.org/obo/FOODON_03414126,"Rhinobatos albomaculatus Norman, 1930",03414126
+http://purl.obolibrary.org/obo/FOODON_03414128,"Rhinobatos planiceps Garman, 1880",03414128
+http://purl.obolibrary.org/obo/FOODON_03414132,Manta hamiltoni,03414132
+http://purl.obolibrary.org/obo/FOODON_03414132,"Manta hamiltoni (Hamilton and Newman in Newman, 1849)",03414132
+http://purl.obolibrary.org/obo/FOODON_03414132,"Manta hamiltoni (Newman, 1849)",03414132
+http://purl.obolibrary.org/obo/FOODON_03414137,Lithodes murrayi,03414137
+http://purl.obolibrary.org/obo/FOODON_03414137,Lithodes murrayi Henderson 1888,03414137
+http://purl.obolibrary.org/obo/FOODON_03414137,"Lithodes murrayi Henderson, 1888",03414137
+http://purl.obolibrary.org/obo/FOODON_03414142,"Anadara granosa (Linnaeus, 1758)",03414142
+http://purl.obolibrary.org/obo/FOODON_03414146,Pecten jacobaeus,03414146
+http://purl.obolibrary.org/obo/FOODON_03414146,"Pecten jacobaeus (Linnaeus, 1758)",03414146
+http://purl.obolibrary.org/obo/FOODON_03414148,Pecten meridionalis,03414148
+http://purl.obolibrary.org/obo/FOODON_03414148,"Pecten meridionalis Tate, 1887",03414148
+http://purl.obolibrary.org/obo/FOODON_03414149,Pecten sulcicostatus Sowerby 1842,03414149
+http://purl.obolibrary.org/obo/FOODON_03414149,"Pecten sulcicostatus Sowerby, 1842",03414149
+http://purl.obolibrary.org/obo/FOODON_03414150,"Aulacomya ater (Molina, 1782)",03414150
+http://purl.obolibrary.org/obo/FOODON_03414151,"Lithophaga lithophaga (Linnaeus, 1758)",03414151
+http://purl.obolibrary.org/obo/FOODON_03414166,"Meleagris gallopavo Linnaeus, 1758",03414166
+http://purl.obolibrary.org/obo/FOODON_03414170,"Tremella fuciformis Berk., 1856",03414170
+http://purl.obolibrary.org/obo/FOODON_03414171,"Agrocybe cylindracea (DC.) Maire, 1938",03414171
+http://purl.obolibrary.org/obo/FOODON_03414172,"Pleurotus floridanus Singer, 1946",03414172
+http://purl.obolibrary.org/obo/FOODON_03414173,"Pholiota nameko (T. Itô) S. Ito & S. Imai, 1933",03414173
+http://purl.obolibrary.org/obo/FOODON_03414175,"Agaricus bitorquis (Quél.) Sacc., 1887",03414175
+http://purl.obolibrary.org/obo/FOODON_03414178,"Phallus duplicatus Bosc, 1811",03414178
+http://purl.obolibrary.org/obo/FOODON_03414179,"Xerula radicata (Relhan) Dörfelt, 1975",03414179
+http://purl.obolibrary.org/obo/FOODON_03414180,"Panellus serotinus (Pers.) Kühner, 1950",03414180
+http://purl.obolibrary.org/obo/FOODON_03414181,"Coprinus comatus (O.F. Müll.) Pers., 1797",03414181
+http://purl.obolibrary.org/obo/FOODON_03414182,"Hericium coralloides (Scop.) Pers., 1794",03414182
+http://purl.obolibrary.org/obo/FOODON_03414183,"Tremella mesenterica Retz., 1769",03414183
+http://purl.obolibrary.org/obo/FOODON_03414184,"Sparassis crispa (Wulfen) Fr., 1821",03414184
+http://purl.obolibrary.org/obo/FOODON_03414185,"Hypsizygus ulmarius (Bull.) Redhead, 1984",03414185
+http://purl.obolibrary.org/obo/FOODON_03414186,"Lentinus tigrinus (Bull.) Fr., 1825",03414186
+http://purl.obolibrary.org/obo/FOODON_03414187,"Calocybe gambosa (Fr.) Singer, 1951",03414187
+http://purl.obolibrary.org/obo/FOODON_03414187,Tricholoma gambosum,03414187
+http://purl.obolibrary.org/obo/FOODON_03414194,Epimedium sagittatum (Siebold & Zucc.) Maxim.,03414194
+http://purl.obolibrary.org/obo/FOODON_03414195,Harpagophytum procumbens (Burch.) DC. ex Meisn.,03414195
+http://purl.obolibrary.org/obo/FOODON_03414212,Sambucus canadensis L.,03414212
+http://purl.obolibrary.org/obo/FOODON_03414212,Sambucus canadensis canadensis Linnaeus,03414212
+http://purl.obolibrary.org/obo/FOODON_03414212,Sambucus canadensis var. canadensis,03414212
+http://purl.obolibrary.org/obo/FOODON_03414212,Sambucus nigra L. ssp. canadensis (L.) R. Bolli,03414212
+http://purl.obolibrary.org/obo/FOODON_03414213,Vitis rotundifolia Michx. var. munsoniana (Simpson ex Munson) M.O. Moore,03414213
+http://purl.obolibrary.org/obo/FOODON_03414213,Vitis rotundifolia var. munsoniana (J. Simpson ex Munson) M. O. Moore,03414213
+http://purl.obolibrary.org/obo/FOODON_03414213,Vitis rotundifolia var. munsoniana (Simpson ex Munson) M.O. Moore,03414213
+http://purl.obolibrary.org/obo/FOODON_03414216,Citrus deliciosa Ten.,03414216
+http://purl.obolibrary.org/obo/FOODON_03414217,Citrus tangerina Tanaka,03414217
+http://purl.obolibrary.org/obo/FOODON_03414217,Citrus tangerina hort. ex Tanaka,03414217
+http://purl.obolibrary.org/obo/FOODON_03414218,Citrus myrtifolia Raf.,03414218
+http://purl.obolibrary.org/obo/FOODON_03414221,Cucumis melo L. var. reticulatus Ser.,03414221
+http://purl.obolibrary.org/obo/FOODON_03414226,Cucumis melo L. var. saccharinus Naudin,03414226
+http://purl.obolibrary.org/obo/FOODON_03414231,Persea americana Mill. var. drymifolia (Schltdl. & Cham.) S.F. Blake,03414231
+http://purl.obolibrary.org/obo/FOODON_03414231,Persea americana var. drymifolia (Schldl. & Cham.) S. F. Blake,03414231
+http://purl.obolibrary.org/obo/FOODON_03414231,Persea americana var. drymifolia (Schltdl. & Cham.) S. F. Blake,03414231
+http://purl.obolibrary.org/obo/FOODON_03414232,Persea americana Mill. var. americana,03414232
+http://purl.obolibrary.org/obo/FOODON_03414232,Persea americana var. americana,03414232
+http://purl.obolibrary.org/obo/FOODON_03414232,Persea americana var. americana Miller,03414232
+http://purl.obolibrary.org/obo/FOODON_03414236,Dialium indum L.,03414236
+http://purl.obolibrary.org/obo/FOODON_03414239,Pouteria viridis (Pittier) Cronq.,03414239
+http://purl.obolibrary.org/obo/FOODON_03414239,Pouteria viridis (Pittier) Cronquist,03414239
+http://purl.obolibrary.org/obo/FOODON_03414242,Hordeum vulgare subsp. spontaneum (K. Koch) Thell.,03414242
+http://purl.obolibrary.org/obo/FOODON_03414243,Setaria italica (L.) Beauv.,03414243
+http://purl.obolibrary.org/obo/FOODON_03414243,Setaria italica (L.) P. Beauv.,03414243
+http://purl.obolibrary.org/obo/FOODON_03414243,Setaria italica (L.) P.Beauv.,03414243
+http://purl.obolibrary.org/obo/FOODON_03414243,Setaria italica subsp. italica,03414243
+http://purl.obolibrary.org/obo/FOODON_03414243,Setaria italica var. italica (L.) Beauv.,03414243
+http://purl.obolibrary.org/obo/FOODON_03414244,Setaria italica subsp. viridis (L.) Thell.,03414244
+http://purl.obolibrary.org/obo/FOODON_03414250,Fagus japonica Maxim.,03414250
+http://purl.obolibrary.org/obo/FOODON_03414251,Brassica juncea (L.) Czern. subsp. integrifolia (H. West) Thell. var. rugosa (Roxb.) M. Tsen & S. H. Lee,03414251
+http://purl.obolibrary.org/obo/FOODON_03414252,Jasminum officinale L.,03414252
+http://purl.obolibrary.org/obo/FOODON_03414253,Cortinarius caperatus (Pers.) Fr. (1838),03414253
+http://purl.obolibrary.org/obo/FOODON_03414253,"Cortinarius caperatus (Pers.) Fr., 1838",03414253
+http://purl.obolibrary.org/obo/FOODON_03414258,Crataegus azarolus L.,03414258
+http://purl.obolibrary.org/obo/FOODON_03414264,Empetrum eamesii Fern. & Wieg.,03414264
+http://purl.obolibrary.org/obo/FOODON_03414264,Empetrum eamesii Fernald & Wiegand,03414264
+http://purl.obolibrary.org/obo/FOODON_03414264,Empetrum eamesii Fernald & Wiegand ssp. atropurpureum (Fernald & Wiegand) D. Löve,03414264
+http://purl.obolibrary.org/obo/FOODON_03414264,Empetrum eamesii Fernald & Wiegand ssp. eamesii,03414264
+http://purl.obolibrary.org/obo/FOODON_03414264,Empetrum eamesii ssp. atropurpureum (Fern. & Wieg.) D. Löve,03414264
+http://purl.obolibrary.org/obo/FOODON_03414264,Empetrum eamesii ssp. eamesii Fern. & Wieg.,03414264
+http://purl.obolibrary.org/obo/FOODON_03414265,Empetrum rubrum Vahl ex Willd.,03414265
+http://purl.obolibrary.org/obo/FOODON_03414266,Myrciaria cauliflora (C. Martius) O. Berg,03414266
+http://purl.obolibrary.org/obo/FOODON_03414266,Myrciaria cauliflora (Mart.) O. Berg,03414266
+http://purl.obolibrary.org/obo/FOODON_03414267,Carissa L.,03414267
+http://purl.obolibrary.org/obo/FOODON_03414271,Ensete,03414271
+http://purl.obolibrary.org/obo/FOODON_03414271,Ensete Horan.,03414271
+http://purl.obolibrary.org/obo/FOODON_03414272,Ensete glaucum (Roxb.) Cheesman,03414272
+http://purl.obolibrary.org/obo/FOODON_03414276,"Cervus timorensis Blainville, 1822",03414276
+http://purl.obolibrary.org/obo/FOODON_03414277,Zygochlamys delicatula,03414277
+http://purl.obolibrary.org/obo/FOODON_03414278,Cyrtosperma chamissonis (Schott) Merr.,03414278
+http://purl.obolibrary.org/obo/FOODON_03414291,Pyropia columbina (Montagne) W.A.Nelson,03414291
+http://purl.obolibrary.org/obo/FOODON_03414303,Abelmoschus moschatus subsp. tuberosus (Span.) Borss. Waalk.,03414303
+http://purl.obolibrary.org/obo/FOODON_03414315,Avena byzantina K. Koch,03414315
+http://purl.obolibrary.org/obo/FOODON_03414321,Triticum turanicum Jakubz.,03414321
+http://purl.obolibrary.org/obo/FOODON_03414321,Triticum turgidum subsp. turanicum (Jakubz.) A. Love & D. Love,03414321
+http://purl.obolibrary.org/obo/FOODON_03414322,Brassica oleracea L. var. costata DC.,03414322
+http://purl.obolibrary.org/obo/FOODON_03414322,Brassica oleracea var. costata DC.,03414322
+http://purl.obolibrary.org/obo/FOODON_03414326,Valerianella,03414326
+http://purl.obolibrary.org/obo/FOODON_03414326,Valerianella Mill.,03414326
+http://purl.obolibrary.org/obo/FOODON_03414326,Valerianella P. Mill.,03414326
+http://purl.obolibrary.org/obo/FOODON_03414326,Valerianella sp.,03414326
+http://purl.obolibrary.org/obo/FOODON_03414332,Salicornia L.,03414332
+http://purl.obolibrary.org/obo/FOODON_03414332,Salicornia sp.,03414332
+http://purl.obolibrary.org/obo/FOODON_03414333,Salicornia europaea L.,03414333
+http://purl.obolibrary.org/obo/FOODON_03414334,Plantago major L.,03414334
+http://purl.obolibrary.org/obo/FOODON_03414340,Backhousia citriodora F. Muell.,03414340
+http://purl.obolibrary.org/obo/FOODON_03414342,Satureja L.,03414342
+http://purl.obolibrary.org/obo/FOODON_03414342,Satureja sp.,03414342
+http://purl.obolibrary.org/obo/FOODON_03414343,Persicaria odorata (Lour.) Sojak,03414343
+http://purl.obolibrary.org/obo/FOODON_03414346,Astrocaryum vulgare Mart.,03414346
+http://purl.obolibrary.org/obo/FOODON_03414347,Schinus,03414347
+http://purl.obolibrary.org/obo/FOODON_03414347,Schinus L.,03414347
+http://purl.obolibrary.org/obo/FOODON_03414347,Schinus sp.,03414347
+http://purl.obolibrary.org/obo/FOODON_03414351,Aleurites moluccana (L.) Willd.,03414351
+http://purl.obolibrary.org/obo/FOODON_03414353,Citrus reshni hort. ex Tanaka,03414353
+http://purl.obolibrary.org/obo/FOODON_03414355,Citrus tankan Hayata,03414355
+http://purl.obolibrary.org/obo/FOODON_03414356,Vaccinium virgatum Ait.,03414356
+http://purl.obolibrary.org/obo/FOODON_03414356,Vaccinium virgatum Aiton,03414356
+http://purl.obolibrary.org/obo/FOODON_03414363,"Apteryx Shaw, 1813",03414363
+http://purl.obolibrary.org/obo/FOODON_03414380,"Bubalus mephistopheles Hopwood, 1925",03414380
+http://purl.obolibrary.org/obo/FOODON_03414470,"Ursus arctos Linnaeus, 1758",03414470
+http://purl.obolibrary.org/obo/FOODON_03414471,"Ursus arctos middendorffi Merriam, 1896",03414471
+http://purl.obolibrary.org/obo/FOODON_03414472,"Ursus arctos horribilis Ord, 1815",03414472
+http://purl.obolibrary.org/obo/FOODON_03414473,"Ursus arctos californicus Merriam, 1896",03414473
+http://purl.obolibrary.org/obo/FOODON_03414479,"Melanitta fusca deglandi (Bonaparte, 1850)",03414479
+http://purl.obolibrary.org/obo/FOODON_03414495,Aconogonon alaskanum (Small) Sojak,03414495
+http://purl.obolibrary.org/obo/FOODON_03414495,Polygonum alpinum All.,03414495
+http://purl.obolibrary.org/obo/FOODON_03414501,"Spermophilus parryii (Richardson, 1825)",03414501
+http://purl.obolibrary.org/obo/FOODON_03414507,Zea mays subsp. mays,03414507
+http://purl.obolibrary.org/obo/FOODON_03414519,Prunus virginiana L. var. demissa (Nutt.) Torr.,03414519
+http://purl.obolibrary.org/obo/FOODON_03414519,Prunus virginiana var. demissa (Nutt.) Torr.,03414519
+http://purl.obolibrary.org/obo/FOODON_03414528,Pisum sativum L. convar. medullare Alef.,03414528
+http://purl.obolibrary.org/obo/FOODON_03414534,Lyophyllum shimeji (Kawam.) Hongo,03414534
+http://purl.obolibrary.org/obo/FOODON_03414535,"Agaricus arvensis Schaeff., 1774",03414535
+http://purl.obolibrary.org/obo/FOODON_03414536,Albatrellus ovinus (Schaeff.) Kotl. & Pouzar 1957,03414536
+http://purl.obolibrary.org/obo/FOODON_03414537,Amanita caesarea (Scop.) Pers. 1801,03414537
+http://purl.obolibrary.org/obo/FOODON_03414538,Boletus pinophilus Pilát & Dermek 1973,03414538
+http://purl.obolibrary.org/obo/FOODON_03414539,Boletus reticulatus Schaeff. 1774,03414539
+http://purl.obolibrary.org/obo/FOODON_03414540,Cantharellus pallens Pilát 1959,03414540
+http://purl.obolibrary.org/obo/FOODON_03414541,Craterellus cornucopioides (L.) Pers. 1825,03414541
+http://purl.obolibrary.org/obo/FOODON_03414542,Craterellus lutescens (Fr.) Fr. 1838,03414542
+http://purl.obolibrary.org/obo/FOODON_03414543,Craterellus tubaeformis (Fr.) Quél. 1888,03414543
+http://purl.obolibrary.org/obo/FOODON_03414544,Dipteryx alata Vogel,03414544
+http://purl.obolibrary.org/obo/FOODON_03414547,Hericium erinaceus (Bull.) Pers. 1797,03414547
+http://purl.obolibrary.org/obo/FOODON_03414548,Hydnum repandum L. 1753,03414548
+http://purl.obolibrary.org/obo/FOODON_03414549,Hydnum rufescens Pers. 1800,03414549
+http://purl.obolibrary.org/obo/FOODON_03414550,Macrolepiota procera (Scop.) Singer 1948,03414550
+http://purl.obolibrary.org/obo/FOODON_03414551,Morchella esculenta (L.) Pers 1801,03414551
+http://purl.obolibrary.org/obo/FOODON_03414552,Pleurotus citrinopileatus Singer 1942,03414552
+http://purl.obolibrary.org/obo/FOODON_03414553,Pleurotus djamor (Rumph. ex Fr.) Boedijn 1959,03414553
+http://purl.obolibrary.org/obo/FOODON_03414555,Tricholoma nauseosum (A. Blytt) Kytöv.,03414555
+http://purl.obolibrary.org/obo/FOODON_03414595,Argania spinosa (L.) Skeels,03414595
+http://purl.obolibrary.org/obo/FOODON_03414603,"Argopecten purpuratus (Lamarck, 1819)",03414603
+http://purl.obolibrary.org/obo/FOODON_03414616,"Ardeotis australis (J. E. Gray, 1829)",03414616
+http://purl.obolibrary.org/obo/FOODON_03414620,"Amphibolurus Wagler, 1830",03414620
+http://purl.obolibrary.org/obo/FOODON_03414623,"Chelodina Fitzinger, 1826",03414623
+http://purl.obolibrary.org/obo/FOODON_03414624,"Natator depressa (Garman, 1880)",03414624
+http://purl.obolibrary.org/obo/FOODON_03414624,"Natator depressus (Garman, 1880)",03414624
+http://purl.obolibrary.org/obo/FOODON_03414625,"Elseya Gray, 1867",03414625
+http://purl.obolibrary.org/obo/FOODON_03414628,"Cherax spp. except Cherax quadricarinatus, Cherax cainii & Cherax tenuimanus",03414628
+http://purl.obolibrary.org/obo/FOODON_03414630,"Donax deltoides Lamarck, 1818",03414630
+http://purl.obolibrary.org/obo/FOODON_03414635,"Monodonta Lamarck, 1799",03414635
+http://purl.obolibrary.org/obo/FOODON_03414636,"Nerita Linnaeus, 1758",03414636
+http://purl.obolibrary.org/obo/FOODON_03414638,"Telescopium telescopium (Linnaeus, 1758)",03414638
+http://purl.obolibrary.org/obo/FOODON_03414811,"Telescopium telescopium (Linnaeus, 1758)",03414811
+http://purl.obolibrary.org/obo/FOODON_03414640,"Terebralia palustris (Linnaeus, 1767)",03414640
+http://purl.obolibrary.org/obo/FOODON_03414640,"Terebralia semistriata (Mörch, 1852)",03414640
+http://purl.obolibrary.org/obo/FOODON_03414640,"Terebralia sulcata (Born, 1778)",03414640
+http://purl.obolibrary.org/obo/FOODON_03414640,terebralia palustris,03414640
+http://purl.obolibrary.org/obo/FOODON_03414654,Diploglottis campbellii Cheel.,03414654
+http://purl.obolibrary.org/obo/FOODON_03414655,Austromyrtus dulcis (C. T. White) L. S. Sm.,03414655
+http://purl.obolibrary.org/obo/FOODON_03414656,Billardiera scandens Sm.,03414656
+http://purl.obolibrary.org/obo/FOODON_03414657,Buchanania Spreng.,03414657
+http://purl.obolibrary.org/obo/FOODON_03414657,Buchanania spp.,03414657
+http://purl.obolibrary.org/obo/FOODON_03414659,Lauraceae,03414659
+http://purl.obolibrary.org/obo/FOODON_03414825,Lauraceae,03414825
+http://purl.obolibrary.org/obo/FOODON_03414662,Davidsonia pruriens F. Muell.,03414662
+http://purl.obolibrary.org/obo/FOODON_03414664,Santalum acuminatum (R. Br.) A. DC.,03414664
+http://purl.obolibrary.org/obo/FOODON_03414665,Elaeocarpus sphaericus (Gaertn.) K. Schum.,03414665
+http://purl.obolibrary.org/obo/FOODON_03414671,Persoonia Sm.,03414671
+http://purl.obolibrary.org/obo/FOODON_03414672,Planchonella Pierre,03414672
+http://purl.obolibrary.org/obo/FOODON_03414829,Planchonella Pierre,03414829
+http://purl.obolibrary.org/obo/FOODON_03414672,Sideroxylon L.,03414672
+http://purl.obolibrary.org/obo/FOODON_03414673,Lecythidaceae,03414673
+http://purl.obolibrary.org/obo/FOODON_03414673,Planchonia careya (F. Muell.) R. Knuth,03414673
+http://purl.obolibrary.org/obo/FOODON_03414674,Anacardiaceae,03414674
+http://purl.obolibrary.org/obo/FOODON_03414674,Pleiogynium timoriense (DC.) Leenh.,03414674
+http://purl.obolibrary.org/obo/FOODON_03414678,Syzygium australe (J. C. Wendl. ex Link) B. Hyland,03414678
+http://purl.obolibrary.org/obo/FOODON_03414681,Panicum decompositum R. Br.,03414681
+http://purl.obolibrary.org/obo/FOODON_03414681,Whiteochloa cymbiformis (Hughes) B. K. Simon,03414681
+http://purl.obolibrary.org/obo/FOODON_03414682,Sterculia quadrifida R. Br.,03414682
+http://purl.obolibrary.org/obo/FOODON_03414684,Araucaria,03414684
+http://purl.obolibrary.org/obo/FOODON_03414684,Araucaria Juss.,03414684
+http://purl.obolibrary.org/obo/FOODON_03414684,Araucaria spp.,03414684
+http://purl.obolibrary.org/obo/FOODON_03414686,Beilschmiedia bancroftii (F. M. Bailey) C. T. White,03414686
+http://purl.obolibrary.org/obo/FOODON_03414687,Hicksbeachia pinnatifolia F. Muell.,03414687
+http://purl.obolibrary.org/obo/FOODON_03414688,Elaeocarpus bancroftii F. Muell. & F. M. Bailey,03414688
+http://purl.obolibrary.org/obo/FOODON_03414689,Hornstedtia spp.,03414689
+http://purl.obolibrary.org/obo/FOODON_03414690,Alpinia caerulea (R. Br.) Benth.,03414690
+http://purl.obolibrary.org/obo/FOODON_03414693,Amyema pendula (Sieber ex Spreng.) Tiegh.,03414693
+http://purl.obolibrary.org/obo/FOODON_03414696,Eupomatia laurina R. Br.,03414696
+http://purl.obolibrary.org/obo/FOODON_03414697,Commelinaceae,03414697
+http://purl.obolibrary.org/obo/FOODON_03414698,Cyatheaceae,03414698
+http://purl.obolibrary.org/obo/FOODON_03414702,Solanum,03414702
+http://purl.obolibrary.org/obo/FOODON_03415104,Solanum,03415104
+http://purl.obolibrary.org/obo/FOODON_03414702,Solanum L.,03414702
+http://purl.obolibrary.org/obo/FOODON_03415104,Solanum L.,03415104
+http://purl.obolibrary.org/obo/FOODON_03414702,Solanum spp.,03414702
+http://purl.obolibrary.org/obo/FOODON_03415104,Solanum spp.,03415104
+http://purl.obolibrary.org/obo/FOODON_03414705,Eriosema (DC.) D. Don,03414705
+http://purl.obolibrary.org/obo/FOODON_03414705,Eriosema (DC.) Desv.,03414705
+http://purl.obolibrary.org/obo/FOODON_03414705,Eriosema spp.,03414705
+http://purl.obolibrary.org/obo/FOODON_03414711,Asparagaceae,03414711
+http://purl.obolibrary.org/obo/FOODON_03414714,Asparagaceae,03414714
+http://purl.obolibrary.org/obo/FOODON_03414712,Bulbine bulbosa (R. Br.) Haw.,03414712
+http://purl.obolibrary.org/obo/FOODON_03414712,Xanthorrhoeaceae,03414712
+http://purl.obolibrary.org/obo/FOODON_03414714,Eustrephus latifolius R. Br.,03414714
+http://purl.obolibrary.org/obo/FOODON_03414715,Araliaceae,03414715
+http://purl.obolibrary.org/obo/FOODON_03414718,Dioscorea transversa R. Br.,03414718
+http://purl.obolibrary.org/obo/FOODON_03414724,Parakeelya balonensis (Lindl.) Hershk.,03414724
+http://purl.obolibrary.org/obo/FOODON_03414726,Microseris scapigera (Sol. ex A. Cunn.) Sch. Bip.,03414726
+http://purl.obolibrary.org/obo/FOODON_03414733,Dendrobium speciosum Sm.,03414733
+http://purl.obolibrary.org/obo/FOODON_03414738,Heteropogon,03414738
+http://purl.obolibrary.org/obo/FOODON_03414738,Heteropogon Pers.,03414738
+http://purl.obolibrary.org/obo/FOODON_03414738,Heteropogon spp.,03414738
+http://purl.obolibrary.org/obo/FOODON_03414741,Ipomoea,03414741
+http://purl.obolibrary.org/obo/FOODON_03414741,Ipomoea L.,03414741
+http://purl.obolibrary.org/obo/FOODON_03414741,Ipomoea spp.,03414741
+http://purl.obolibrary.org/obo/FOODON_03414743,Vigna lanceolata Benth.,03414743
+http://purl.obolibrary.org/obo/FOODON_03414749,Sapindaceae,03414749
+http://purl.obolibrary.org/obo/FOODON_03414753,Carallia brachiata (Lour.) Merr.,03414753
+http://purl.obolibrary.org/obo/FOODON_03414754,Cartonema spicatum R. Br.,03414754
+http://purl.obolibrary.org/obo/FOODON_03414760,Asteraceae,03414760
+http://purl.obolibrary.org/obo/FOODON_03414762,Urticaceae,03414762
+http://purl.obolibrary.org/obo/FOODON_03414775,Lysiphyllum carronii (F. Muell.) Pedley,03414775
+http://purl.obolibrary.org/obo/FOODON_03414778,Nauclea orientalis (L.) L.,03414778
+http://purl.obolibrary.org/obo/FOODON_03414784,Myrtaceae,03414784
+http://purl.obolibrary.org/obo/FOODON_03414784,Rhodamnia Jack,03414784
+http://purl.obolibrary.org/obo/FOODON_03414785,Rhyncharrhena linearis (Decne.) K.L.Wilson,03414785
+http://purl.obolibrary.org/obo/FOODON_03414789,Stylobasium spathulatum Desf.,03414789
+http://purl.obolibrary.org/obo/FOODON_03414792,Juncaginaceae,03414792
+http://purl.obolibrary.org/obo/FOODON_03414794,Araceae,03414794
+http://purl.obolibrary.org/obo/FOODON_03414799,"Chelodina rugosa Ogilby, 1890",03414799
+http://purl.obolibrary.org/obo/FOODON_03414801,"Cherax albidus (Riek, 1951)",03414801
+http://purl.obolibrary.org/obo/FOODON_03414802,"Polymesoda coaxans (Gmelin, 1791)",03414802
+http://purl.obolibrary.org/obo/FOODON_03414804,"Velesunio ambiguus (Philippi, 1847)",03414804
+http://purl.obolibrary.org/obo/FOODON_03414805,"Velesunio angasi (Sowerby, 1867)",03414805
+http://purl.obolibrary.org/obo/FOODON_03414806,"Turbo cornutus Lightfoot, 1786",03414806
+http://purl.obolibrary.org/obo/FOODON_03414808,"Monodonta labio (Linnaeus, 1758)",03414808
+http://purl.obolibrary.org/obo/FOODON_03414812,"Terebralia palustris (Linnaeus, 1767)",03414812
+http://purl.obolibrary.org/obo/FOODON_03414813,"Terebralia palustris (Linnaeus, 1767)",03414813
+http://purl.obolibrary.org/obo/FOODON_03414819,Cissus antarctica Venten,03414819
+http://purl.obolibrary.org/obo/FOODON_03414820,Cissus hypoglauca A. Gray,03414820
+http://purl.obolibrary.org/obo/FOODON_03414821,Ampelocissus acetosa (F.Muell.) Planch.,03414821
+http://purl.obolibrary.org/obo/FOODON_03414822,Ampelocissus frutescens Jackes,03414822
+http://purl.obolibrary.org/obo/FOODON_03414823,Buchanania obovata Engl.,03414823
+http://purl.obolibrary.org/obo/FOODON_03414824,Carpobrotus modestus S.T.Blake,03414824
+http://purl.obolibrary.org/obo/FOODON_03414825,Cassytha melantha R. Br.,03414825
+http://purl.obolibrary.org/obo/FOODON_03414826,Persoonia falcata R.Br.,03414826
+http://purl.obolibrary.org/obo/FOODON_03414827,Persoonia pinifolia R. Br.,03414827
+http://purl.obolibrary.org/obo/FOODON_03414827,Persoonia pinifolia R.Br.,03414827
+http://purl.obolibrary.org/obo/FOODON_03414828,Planchonella chartacea (F.Muell. ex Benth.) H.J.Lam,03414828
+http://purl.obolibrary.org/obo/FOODON_03414829,Planchonella australis (R. Br.) Pierre,03414829
+http://purl.obolibrary.org/obo/FOODON_03414830,Planchonella pohlmaniana (F.Muell.) Pierre ex Dubard,03414830
+http://purl.obolibrary.org/obo/FOODON_03414831,Syzygium bungadinnia (F.M.Bailey) B.Hyland,03414831
+http://purl.obolibrary.org/obo/FOODON_03414832,Syzygium johnsonii (F.Muell.) B.Hyland,03414832
+http://purl.obolibrary.org/obo/FOODON_03414833,Syzygium luehmannii (F.Muell.) L.A.S.Johnson,03414833
+http://purl.obolibrary.org/obo/FOODON_03414834,Syzygium suborbiculare (Benth.) T.G.Hartley & L.M.Perry,03414834
+http://purl.obolibrary.org/obo/FOODON_03414835,Acmena DC.,03414835
+http://purl.obolibrary.org/obo/FOODON_03414837,Acmena smithii (Poir.) Merr. & L.M.Perry,03414837
+http://purl.obolibrary.org/obo/FOODON_03414837,Syzygium smithii (Poir.) Nied.,03414837
+http://purl.obolibrary.org/obo/FOODON_03414838,Podocarpus elatus R. Br. ex Endl.,03414838
+http://purl.obolibrary.org/obo/FOODON_03414841,Capparis mitchellii Lindl.,03414841
+http://purl.obolibrary.org/obo/FOODON_03414843,×Citrofortunella spp.,03414843
+http://purl.obolibrary.org/obo/FOODON_03414844,×Citrofortunella floridana J. W. Ingram & H. E. Moore,03414844
+http://purl.obolibrary.org/obo/FOODON_03414844,×Citrofortunella swinglei J. W. Ingram & H. E. Moore,03414844
+http://purl.obolibrary.org/obo/FOODON_03414848,"Rattus Fischer, 1803",03414848
+http://purl.obolibrary.org/obo/FOODON_03414848,"Rattus G. Fischer, 1803",03414848
+http://purl.obolibrary.org/obo/FOODON_03414849,"Equus Linnaeus, 1758",03414849
+http://purl.obolibrary.org/obo/FOODON_03414861,"Clarias Scopoli, 1777",03414861
+http://purl.obolibrary.org/obo/FOODON_03414863,"Silurus asotus Linnaeus, 1758",03414863
+http://purl.obolibrary.org/obo/FOODON_03414865,"Leiocassis Bleeker, 1857",03414865
+http://purl.obolibrary.org/obo/FOODON_03414867,"Pseudoplatystoma Bleeker, 1862",03414867
+http://purl.obolibrary.org/obo/FOODON_03414882,"Limnothrissa Regan, 1917",03414882
+http://purl.obolibrary.org/obo/FOODON_03414888,"Alopias Rafinesque, 1810",03414888
+http://purl.obolibrary.org/obo/FOODON_03414896,"Stomatopoda Latreille, 1817",03414896
+http://purl.obolibrary.org/obo/FOODON_03414901,Arachnida,03414901
+http://purl.obolibrary.org/obo/FOODON_03414912,Vernonia Schreb.,03414912
+http://purl.obolibrary.org/obo/FOODON_03414912,Vernonia spp.,03414912
+http://purl.obolibrary.org/obo/FOODON_03414913,Crithmum maritimum L.,03414913
+http://purl.obolibrary.org/obo/FOODON_03414915,Limonium,03414915
+http://purl.obolibrary.org/obo/FOODON_03414915,Limonium Mill.,03414915
+http://purl.obolibrary.org/obo/FOODON_03414915,Limonium spp.,03414915
+http://purl.obolibrary.org/obo/FOODON_03414916,Marsilea,03414916
+http://purl.obolibrary.org/obo/FOODON_03414916,Marsilea L.,03414916
+http://purl.obolibrary.org/obo/FOODON_03414916,Marsilea crenata C. Presl,03414916
+http://purl.obolibrary.org/obo/FOODON_03414920,Brassica oleracea L. var. palmifolia DC.,03414920
+http://purl.obolibrary.org/obo/FOODON_03414920,Brassica oleracea var. palmifolia DC.,03414920
+http://purl.obolibrary.org/obo/FOODON_03414925,Daemonorops jenkinsiana (Griff.) Mart.,03414925
+http://purl.obolibrary.org/obo/FOODON_03414926,Attalea maripa (Aubl.) Mart.,03414926
+http://purl.obolibrary.org/obo/FOODON_03414932,Physalis grisea (Waterf.) M. Martinez,03414932
+http://purl.obolibrary.org/obo/FOODON_03414932,Physalis grisea (Waterf.) M. Martiñez,03414932
+http://purl.obolibrary.org/obo/FOODON_03414935,Cucumis melo var. flexuosus (L.) Naudin,03414935
+http://purl.obolibrary.org/obo/FOODON_03414941,Brassica juncea subsp. napiformis (Pailleux & Bois) Gladis,03414941
+http://purl.obolibrary.org/obo/FOODON_03414951,Aronia,03414951
+http://purl.obolibrary.org/obo/FOODON_03414951,Aronia Medik.,03414951
+http://purl.obolibrary.org/obo/FOODON_03414951,Aronia spp.,03414951
+http://purl.obolibrary.org/obo/FOODON_03414953,Aronia X prunifolia (Marshall) Rehder (pro sp.),03414953
+http://purl.obolibrary.org/obo/FOODON_03414953,Aronia x prunifolia (Marshall) Rehder,03414953
+http://purl.obolibrary.org/obo/FOODON_03414954,Ribes x nidigrolaria Rud. Bauer & A. Bauer,03414954
+http://purl.obolibrary.org/obo/FOODON_03414957,Acrotriche depressa R. Br.,03414957
+http://purl.obolibrary.org/obo/FOODON_03414963,Morella,03414963
+http://purl.obolibrary.org/obo/FOODON_03414963,Morella Lour.,03414963
+http://purl.obolibrary.org/obo/FOODON_03414963,Morella rubra Lour.,03414963
+http://purl.obolibrary.org/obo/FOODON_03414964,Shepherdia Nutt.,03414964
+http://purl.obolibrary.org/obo/FOODON_03414964,Shepherdia argentea (Pursh) Nutt.,03414964
+http://purl.obolibrary.org/obo/FOODON_03414967,Elaeagnus,03414967
+http://purl.obolibrary.org/obo/FOODON_03414967,Elaeagnus L.,03414967
+http://purl.obolibrary.org/obo/FOODON_03414967,Elaeagnus spp.,03414967
+http://purl.obolibrary.org/obo/FOODON_03414968,Bouea macrophylla Griff.,03414968
+http://purl.obolibrary.org/obo/FOODON_03414969,Myrciaria dubia (Kunth) McVaugh,03414969
+http://purl.obolibrary.org/obo/FOODON_03414976,Citrus limettioides Tanaka,03414976
+http://purl.obolibrary.org/obo/FOODON_03414978,Melientha suavis Pierre,03414978
+http://purl.obolibrary.org/obo/FOODON_03414991,Rumex hydrolapathum Huds.,03414991
+http://purl.obolibrary.org/obo/FOODON_03414995,Santolina,03414995
+http://purl.obolibrary.org/obo/FOODON_03414995,Santolina L.,03414995
+http://purl.obolibrary.org/obo/FOODON_03414997,Thymus mastichina L.,03414997
+http://purl.obolibrary.org/obo/FOODON_03414998,Thymus x citriodorus (Pers.) Schreb.,03414998
+http://purl.obolibrary.org/obo/FOODON_03414998,Thymus x citriodorus (Pers.) Schreb. ex Schweigg. & Körte,03414998
+http://purl.obolibrary.org/obo/FOODON_03414999,Tagetes,03414999
+http://purl.obolibrary.org/obo/FOODON_03414999,Tagetes L.,03414999
+http://purl.obolibrary.org/obo/FOODON_03414999,Tagetes spp.,03414999
+http://purl.obolibrary.org/obo/FOODON_03415001,Tagetes tenuifolia Cav.,03415001
+http://purl.obolibrary.org/obo/FOODON_03415002,Tropaeolum,03415002
+http://purl.obolibrary.org/obo/FOODON_03415002,Tropaeolum L.,03415002
+http://purl.obolibrary.org/obo/FOODON_03415002,Tropaeolum spp.,03415002
+http://purl.obolibrary.org/obo/FOODON_03415009,Calamintha nepeta (L.) Savi,03415009
+http://purl.obolibrary.org/obo/FOODON_03415009,Calamintha nepeta (L.) Savi ssp. glandulosa (Riquien) P.W. Ball,03415009
+http://purl.obolibrary.org/obo/FOODON_03415009,Calamintha nepeta (L.) Savi ssp. nepeta,03415009
+http://purl.obolibrary.org/obo/FOODON_03415017,Smallanthus Mack. ex Small,03415017
+http://purl.obolibrary.org/obo/FOODON_03415017,Smallanthus sonchifolius (Poepp. & Endl.) H. Rob.,03415017
+http://purl.obolibrary.org/obo/FOODON_03415018,Betula,03415018
+http://purl.obolibrary.org/obo/FOODON_03415018,Betula L.,03415018
+http://purl.obolibrary.org/obo/FOODON_03415018,Betula spp.,03415018
+http://purl.obolibrary.org/obo/FOODON_03415023,Corylus maxima Mill.,03415023
+http://purl.obolibrary.org/obo/FOODON_03415024,Allium obliquum L.,03415024
+http://purl.obolibrary.org/obo/FOODON_03415025,Brassica napus L. var. pabularia (DC.) Rchb.,03415025
+http://purl.obolibrary.org/obo/FOODON_03415026,Canarium L.,03415026
+http://purl.obolibrary.org/obo/FOODON_03415026,Canarium spp.,03415026
+http://purl.obolibrary.org/obo/FOODON_03415034,Lunaria,03415034
+http://purl.obolibrary.org/obo/FOODON_03415034,Lunaria L.,03415034
+http://purl.obolibrary.org/obo/FOODON_03415034,Lunaria spp.,03415034
+http://purl.obolibrary.org/obo/FOODON_03415037,Trachyspermum roxburghianum (DC.) Craib,03415037
+http://purl.obolibrary.org/obo/FOODON_03415041,Curcuma zanthorrhiza Roxb.,03415041
+http://purl.obolibrary.org/obo/FOODON_03415042,Vanilla tahitensis J. W. Moore,03415042
+http://purl.obolibrary.org/obo/FOODON_03415046,Citrus latifolia (Yu. Tanaka) Tanaka,03415046
+http://purl.obolibrary.org/obo/FOODON_03415047,Crataegus mexicana DC.,03415047
+http://purl.obolibrary.org/obo/FOODON_03415055,Schisandra Michx.,03415055
+http://purl.obolibrary.org/obo/FOODON_03415055,Schisandra spp.,03415055
+http://purl.obolibrary.org/obo/FOODON_03415057,Rubus arcticus L.,03415057
+http://purl.obolibrary.org/obo/FOODON_03415059,Rubus coreanus Miq.,03415059
+http://purl.obolibrary.org/obo/FOODON_03415071,Echinacea,03415071
+http://purl.obolibrary.org/obo/FOODON_03415071,Echinacea Moench,03415071
+http://purl.obolibrary.org/obo/FOODON_03415071,Echinacea spp.,03415071
+http://purl.obolibrary.org/obo/FOODON_03415081,Rubus suavissimus S. K. Lee,03415081
+http://purl.obolibrary.org/obo/FOODON_03415086,Hamamelis,03415086
+http://purl.obolibrary.org/obo/FOODON_03415086,Hamamelis L.,03415086
+http://purl.obolibrary.org/obo/FOODON_03415086,Hamamelis spp.,03415086
+http://purl.obolibrary.org/obo/FOODON_03415087,Cyclopia Vent.,03415087
+http://purl.obolibrary.org/obo/FOODON_03415088,Chrysanthemum,03415088
+http://purl.obolibrary.org/obo/FOODON_03415088,Chrysanthemum L.,03415088
+http://purl.obolibrary.org/obo/FOODON_03415088,Chrysanthemum spp.,03415088
+http://purl.obolibrary.org/obo/FOODON_03415093,Archidendron jiringa (Jack) I. C. Nielsen,03415093
+http://purl.obolibrary.org/obo/FOODON_03415093,Archidendron jiringa (Jack) I.C. Nielsen,03415093
+http://purl.obolibrary.org/obo/FOODON_03415093,Archidendron jiringa (Jack) I.C.Nielsen,03415093
+http://purl.obolibrary.org/obo/FOODON_03415097,Abies,03415097
+http://purl.obolibrary.org/obo/FOODON_03415097,Abies Mill.,03415097
+http://purl.obolibrary.org/obo/FOODON_03415097,Abies spp.,03415097
+http://purl.obolibrary.org/obo/FOODON_03415098,Robinia,03415098
+http://purl.obolibrary.org/obo/FOODON_03415098,Robinia L.,03415098
+http://purl.obolibrary.org/obo/FOODON_03415098,Robinia spp.,03415098
+http://purl.obolibrary.org/obo/FOODON_03415102,Cestrum,03415102
+http://purl.obolibrary.org/obo/FOODON_03415102,Cestrum L.,03415102
+http://purl.obolibrary.org/obo/FOODON_03415102,Cestrum spp.,03415102
+http://purl.obolibrary.org/obo/FOODON_03415103,Lycium,03415103
+http://purl.obolibrary.org/obo/FOODON_03415103,Lycium L.,03415103
+http://purl.obolibrary.org/obo/FOODON_03415103,Lycium spp.,03415103
+http://purl.obolibrary.org/obo/FOODON_03415106,Amaranthus dubius Mart. ex Thell.,03415106
+http://purl.obolibrary.org/obo/FOODON_03415111,Blumea lanceolaria (Roxb.) Druce,03415111
+http://purl.obolibrary.org/obo/FOODON_03415112,Allium oschaninii O. Fedtsch.,03415112
+http://purl.obolibrary.org/obo/FOODON_03415113,Allium stipitatum Regel,03415113
+http://purl.obolibrary.org/obo/FOODON_03415121,Agathosma betulina (Bergius) Pill.,03415121
+http://purl.obolibrary.org/obo/FOODON_03415121,Agathosma betulina (P. J. Bergius) Pillans,03415121
+http://purl.obolibrary.org/obo/FOODON_03415121,Agathosma betulina (P.J. Bergius) Pillans,03415121
+http://purl.obolibrary.org/obo/FOODON_03415121,Agathosma betulina (P.J.Bergius) Pillans,03415121
+http://purl.obolibrary.org/obo/FOODON_03415142,Gynostemma pentaphyllum (Thunb.) Makino,03415142
+http://purl.obolibrary.org/obo/FOODON_03415160,Paeonia,03415160
+http://purl.obolibrary.org/obo/FOODON_03415160,Paeonia L.,03415160
+http://purl.obolibrary.org/obo/FOODON_03415160,Paeonia spp.,03415160
+http://purl.obolibrary.org/obo/FOODON_03415161,Helichrysum arenarium (L.) Moench,03415161
+http://purl.obolibrary.org/obo/FOODON_03415165,Krameria lappacea (Dombey) Burdet & B. B. Simpson,03415165
+http://purl.obolibrary.org/obo/FOODON_03415167,Cinchona,03415167
+http://purl.obolibrary.org/obo/FOODON_03415167,Cinchona L.,03415167
+http://purl.obolibrary.org/obo/FOODON_03415167,Cinchona spp.,03415167
+http://purl.obolibrary.org/obo/FOODON_03415168,Marsdenia cundurango Rchb. f.,03415168
+http://purl.obolibrary.org/obo/FOODON_03415168,Marsdenia cundurango Rchb. fil.,03415168
+http://purl.obolibrary.org/obo/FOODON_03415169,Handroanthus impetiginosus (Mart. ex DC.) Mattos,03415169
+http://purl.obolibrary.org/obo/FOODON_03415173,Solidago virgaurea L.,03415173
+http://purl.obolibrary.org/obo/FOODON_03415175,Pyrus x bretschneideri Rehder,03415175
+http://purl.obolibrary.org/obo/FOODON_03430100,coarsely grated,03430100
+http://purl.obolibrary.org/obo/FOODON_03430100,coarsely ground,03430100
+http://purl.obolibrary.org/obo/FOODON_03430100,cracked into small size pieces,03430100
+http://purl.obolibrary.org/obo/FOODON_03430100,crumbs,03430100
+http://purl.obolibrary.org/obo/FOODON_03430100,flaked (physical state),03430100
+http://purl.obolibrary.org/obo/FOODON_03430100,grated coarsely,03430100
+http://purl.obolibrary.org/obo/FOODON_03430100,minced,03430100
+http://purl.obolibrary.org/obo/FOODON_03430100,shredded,03430100
+http://purl.obolibrary.org/obo/FOODON_03450006,barbecuing|broiling|grilling,03450006
+http://purl.obolibrary.org/obo/FOODON_03500045,cloth,03500045
+http://purl.obolibrary.org/obo/FOODON_03500045,fabric,03500045
+http://purl.obolibrary.org/obo/FOODON_03530251,GMO,03530251
+http://purl.obolibrary.org/obo/FOODON_03600009,docosahexaenoic acid (DHA) supplement,03600009
+http://purl.obolibrary.org/obo/FOODON_03600009,eicosapentaenoic acid (EPA) supplement,03600009
+http://purl.obolibrary.org/obo/FOODON_03601014,aloo bhujia,03601014
+http://purl.obolibrary.org/obo/FOODON_03601014,bikaneri bhujia,03601014
+http://purl.obolibrary.org/obo/FOODON_03601068,suboptimal food,03601068
